@@ -1,169 +1,115 @@
-estadio,partidas,vitorias_casa,vitorias_fora,empates,data_primeira_partida,data_ultima_partida,times_casa
- Brinco de Ouro,66,30,14,22,29/03/2003,28/11/2010,"{'Guarani': 65, 'Corinthians': 1}"
- Arena da Baixada,120,70,17,33,29/03/2003,04/12/2011,"{'Athletico-PR': 119, 'Parana': 1}"
- Maracanã,669,341,140,188,30/03/2003,08/12/2024,"{'Flamengo': 281, 'Fluminense': 296, 'Vasco': 35, 'Botafogo-RJ': 57}"
- Serra Dourada,235,115,61,59,30/03/2003,08/12/2013,"{'Goias': 179, 'Athletico-PR': 1, 'Atletico-GO': 55}"
- Beira Rio,200,117,36,47,30/03/2003,25/11/2012,{'Internacional': 200}
- Heriberto Hulse,64,33,18,13,30/03/2003,01/12/2013,{'Criciuma': 64}
- Alfredo Jaconi,164,70,37,57,30/03/2003,08/12/2024,"{'Juventude': 158, 'Gremio': 6}"
- Castelão,64,28,17,19,30/03/2003,28/11/2010,"{'Fortaleza': 45, 'Ceara': 19}"
- Mineirão,476,255,105,116,30/03/2003,04/12/2024,"{'Cruzeiro': 290, 'Atletico-MG': 184, 'America-MG': 2}"
- Barradão,202,90,60,52,30/03/2003,04/12/2024,{'Vitoria': 202}
- Vila Belmiro,192,105,33,54,30/03/2003,03/11/2013,"{'Santos': 191, 'Ponte Preta': 1}"
- Pacaembu,213,116,46,51,30/03/2003,30/11/2013,"{'Corinthians': 169, 'Santos': 13, 'Palmeiras': 28, 'Sao Paulo': 2, 'Portuguesa': 1}"
- Couto Pereira,297,140,85,72,05/04/2003,22/06/2024,"{'Coritiba': 290, 'Parana': 4, 'Athletico-PR': 1, 'Gremio': 2}"
- Olímpico,172,99,30,43,05/04/2003,02/12/2012,{'Gremio': 172}
- Fonte Nova,43,18,11,14,06/04/2003,08/12/2013,"{'Bahia': 40, 'Vitoria': 3}"
- Orlando Scarpelli,220,96,54,70,06/04/2003,19/06/2024,"{'Figueirense': 216, 'Parana': 1, 'Flamengo': 1, 'Athletico-PR': 1, 'Internacional': 1}"
- Mangueirão,66,33,17,16,06/04/2003,19/11/2014,"{'Paysandu': 65, 'Goias': 1}"
- Moisés Lucarelli,179,82,57,40,06/04/2003,26/11/2017,{'Ponte Preta': 179}
- Pinheirão,65,39,15,11,06/04/2003,10/09/2006,{'Parana': 65}
- Anacleto Campanella,86,43,24,19,06/04/2003,02/08/2009,"{'Sao Caetano': 85, 'Santo Andre': 1}"
- Morumbi,413,229,70,114,06/04/2003,06/12/2023,"{'Sao Paulo': 386, 'Corinthians': 19, 'Palmeiras': 5, 'Atletico-MG': 1, 'Santos': 1, 'Flamengo': 1}"
- São Januário,170,85,40,45,06/04/2003,18/09/2013,"{'Vasco': 163, 'Fluminense': 4, 'Botafogo-RJ': 3}"
- Presidente Vargas,34,13,11,10,13/04/2003,27/11/2011,"{'Fortaleza': 15, 'Ceara': 19}"
-  Independência,71,44,9,18,24/05/2003,08/12/2013,"{'Atletico-MG': 52, 'Cruzeiro': 19}"
-  Édson Passos,1,1,0,0,31/05/2003,31/05/2003,{'Fluminense': 1}
-  Giulite Coutinho,5,1,3,1,19/07/2003,19/07/2007,"{'Fluminense': 3, 'Flamengo': 1, 'Botafogo-RJ': 1}"
-  Santa Cruz,3,1,0,2,16/08/2003,20/09/2009,"{'Sao Paulo': 1, 'Figueirense': 1, 'Santo Andre': 1}"
-  Willie Davids,6,1,4,1,24/08/2003,14/05/2006,{'Parana': 6}
-  Municipal Juiz de Fora,1,1,0,0,30/08/2003,30/08/2003,{'Fluminense': 1}
-  Benedito Teixeira,3,3,0,0,30/08/2003,05/12/2004,"{'Sao Paulo': 1, 'Santos': 2}"
-  Plácido Castelo,1,1,0,0,21/09/2003,21/09/2003,{'Fortaleza': 1}
-  Estádio do Café,6,1,3,2,22/10/2003,18/11/2018,"{'Athletico-PR': 2, 'Parana': 2, 'Figueirense': 1, 'America-MG': 1}"
-  Vivaldo Lima,1,0,0,1,23/10/2003,23/10/2003,{'Vasco': 1}
-  Batistão,2,1,1,0,02/11/2003,05/06/2013,"{'Vasco': 1, 'Bahia': 1}"
-  Ressacada,134,45,44,45,08/11/2003,09/11/2022,"{'Criciuma': 1, 'Avai': 132, 'Vasco': 1}"
-  Pedro Pedrossian,1,0,1,0,09/11/2003,09/11/2003,{'Vasco': 1}
-  Ipatingão,32,14,14,4,22/11/2003,31/08/2011,"{'Atletico-MG': 10, 'Cruzeiro': 3, 'Ipatinga': 19}"
-  Caio Martins,19,8,4,7,21/04/2004,12/12/2004,{'Botafogo-RJ': 19}
-  Parque Antártica,75,43,18,14,21/04/2004,22/05/2010,{'Palmeiras': 75}
-  Raulino de Oliveira,73,38,18,17,24/04/2004,08/06/2013,"{'Flamengo': 31, 'Fluminense': 34, 'Botafogo-RJ': 6, 'Vasco': 2}"
-  Mj José Levi Sobrinho,1,0,0,1,20/06/2004,20/06/2004,{'Corinthians': 1}
-  Wilson de Barros,1,1,0,0,22/08/2004,22/08/2004,{'Santos': 1}
-  Mário Helênio,2,1,0,1,23/10/2004,25/07/2007,"{'Botafogo-RJ': 1, 'Flamengo': 1}"
-  Bento Freitas,2,1,1,0,30/10/2004,13/11/2004,{'Gremio': 2}
-  Prudentão,25,9,10,6,14/11/2004,24/11/2013,"{'Santos': 2, 'Palmeiras': 3, 'Barueri': 1, 'Gremio Prudente': 19}"
-  Colosso da Lagoa,3,0,2,1,14/11/2004,11/12/2004,"{'Juventude': 1, 'Gremio': 2}"
-Teixeirão,5,3,1,1,19/12/2004,01/12/2013,"{'Santos': 2, 'Corinthians': 1, 'Santo Andre': 1, 'Palmeiras': 1}"
-  Bruno J Daniel,1,0,0,1,23/04/2005,23/04/2005,{'Sao Caetano': 1}
-  Pres Vargas*(PF),2,1,1,0,24/04/2005,14/05/2005,{'Fortaleza': 2}
-  Mané Garrincha,15,3,3,9,24/04/2005,06/10/2013,"{'Brasiliense': 3, 'Botafogo-RJ': 2, 'Fluminense': 1, 'Santos': 1, 'Flamengo': 6, 'Vasco': 2}"
-  A Campanella*(PF),1,1,0,0,24/04/2005,24/04/2005,{'Santos': 1}
-  R de Oliveira*(PF),1,0,0,1,30/04/2005,30/04/2005,{'Vasco': 1}
-  Luso Brasileiro*(PF),1,1,0,0,01/05/2005,01/05/2005,{'Botafogo-RJ': 1}
-  G Coutinho*(PF),1,1,0,0,14/05/2005,14/05/2005,{'Botafogo-RJ': 1}
-  Luso Brasileiro,34,16,8,10,15/05/2005,04/12/2005,"{'Flamengo': 16, 'Botafogo-RJ': 18}"
-  Boca do Jacaré,18,5,8,5,15/05/2005,04/11/2012,"{'Brasiliense': 17, 'Atletico-GO': 1}"
-  Couto Pereira*(PF),2,0,0,2,11/06/2005,26/06/2005,{'Athletico-PR': 2}
-  Wilson de Barros*(PF),2,1,1,0,12/06/2005,26/06/2005,{'Corinthians': 2}
-  Serejão,1,0,0,1,28/07/2005,28/07/2005,{'Brasiliense': 1}
-  Pacaembu*(PF),2,0,0,2,31/07/2005,16/11/2005,"{'Palmeiras': 1, 'Santos': 1}"
-  Independência*(PF),1,0,1,0,11/09/2005,11/09/2005,{'Atletico-MG': 1}
-  Curuzu*(PF),2,2,0,0,01/10/2005,11/10/2005,{'Paysandu': 2}
-  Parque Antártica*(PF),1,0,1,0,30/10/2005,30/10/2005,{'Santos': 1}
-  Olímpico Regional,2,1,1,0,03/11/2005,05/08/2009,"{'Parana': 1, 'Coritiba': 1}"
-  Centenário*(PF),1,1,0,0,13/11/2005,13/11/2005,{'Juventude': 1}
-  A.Campanella*(PF),1,0,1,0,13/11/2005,13/11/2005,{'Santos': 1}
-  Arruda,21,7,9,5,16/04/2006,22/06/2008,"{'Santa Cruz': 19, 'Nautico': 2}"
-  Kyocera Arena,56,30,11,15,16/04/2006,07/12/2008,{'Athletico-PR': 56}
-  Papa J.Paulo II (*PF),1,1,0,0,23/04/2006,23/04/2006,{'Santos': 1}
-  Bruno J.Daniel (*PF),1,1,0,0,06/05/2006,06/05/2006,{'Santos': 1}
-  Centenário (*PF),3,3,0,0,13/08/2006,30/08/2006,{'Gremio': 3}
-  Durival de Brito,26,13,8,5,20/09/2006,25/11/2007,{'Parana': 26}
-  Independência (*PF),1,0,0,1,14/10/2006,14/10/2006,{'Cruzeiro': 1}
-  Durival de Brito (*PF),1,0,1,0,26/11/2006,26/11/2006,{'Athletico-PR': 1}
-Machadão,19,2,14,3,13/05/2007,24/11/2007,{'America-RN': 19}
-Ilha do Retiro,76,36,20,20,13/05/2007,25/11/2012,{'Sport': 76}
-Aflitos,75,37,22,16,20/05/2007,02/06/2013,{'Nautico': 75}
-Olímpico Engenhão,1,0,1,0,30/06/2007,30/06/2007,{'Fluminense': 1}
-Parque do Sabiá,14,7,5,2,19/07/2007,17/11/2013,"{'Flamengo': 1, 'Cruzeiro': 10, 'America-MG': 3}"
-Engenheiro Araripe,2,2,0,0,22/07/2007,01/08/2007,"{'Fluminense': 1, 'Botafogo-RJ': 1}"
-Engenhão,177,88,35,54,06/10/2007,02/12/2012,"{'Botafogo-RJ': 95, 'Flamengo': 35, 'Fluminense': 40, 'Vasco': 7}"
-Canindé,63,28,11,24,11/05/2008,08/12/2013,"{'Portuguesa': 53, 'Palmeiras': 10}"
-Palestra Itália,36,24,4,8,18/05/2008,29/11/2009,{'Palmeiras': 36}
-Antônio Guimarães,1,0,1,0,21/08/2008,21/08/2008,{'Portuguesa': 1}
-Juscelino Kubitscheck,1,1,0,0,16/11/2008,16/11/2008,{'Goias': 1}
-Bezerrão,2,1,1,0,07/12/2008,10/11/2012,"{'Goias': 1, 'Atletico-GO': 1}"
-Bruno José Daniel,16,8,5,3,10/05/2009,29/11/2009,{'Santo Andre': 16}
-Arena Barueri,49,23,12,14,17/05/2009,12/05/2024,"{'Barueri': 18, 'Palmeiras': 21, 'Santos': 3, 'Sao Paulo': 5, 'Figueirense': 1, 'Bahia': 1}"
-Eduardo José Farah,2,0,1,1,26/07/2009,01/11/2009,"{'Corinthians': 1, 'Palmeiras': 1}"
-Luiz Lacerda,1,1,0,0,08/08/2009,08/08/2009,{'Nautico': 1}
-Arena do Jacaré,71,36,15,20,15/07/2010,09/06/2013,"{'Atletico-MG': 29, 'Cruzeiro': 27, 'America-MG': 15}"
-Fonte Luminosa,7,3,2,2,21/11/2010,10/11/2013,"{'Palmeiras': 4, 'Corinthians': 3}"
-Cláudio Moacyr,4,2,1,1,21/05/2011,27/11/2011,{'Flamengo': 4}
-Pituaçu,39,12,10,17,29/05/2011,29/05/2013,{'Bahia': 39}
-Morenão,2,1,1,0,05/06/2011,29/09/2013,"{'America-MG': 1, 'Portuguesa': 1}"
-Romildo Ferreira,1,1,0,0,04/12/2011,04/12/2011,{'Sao Paulo': 1}
-Melão,3,2,0,1,10/06/2012,10/10/2012,{'Cruzeiro': 3}
-Moacyrzão,11,5,3,3,26/05/2013,16/07/2014,"{'Fluminense': 5, 'Vasco': 3, 'Flamengo': 2, 'Botafogo-RJ': 1}"
-Vila Olímpica,1,0,0,1,29/05/2013,29/05/2013,{'Athletico-PR': 1}
-Juiz de Fora,1,0,1,0,29/05/2013,29/05/2013,{'Flamengo': 1}
-Centenário (RS),11,6,2,3,30/05/2013,08/12/2013,{'Internacional': 11}
-Arena Joinville,22,8,6,8,01/06/2013,06/12/2015,"{'Athletico-PR': 3, 'Joinville': 19}"
-Arena do Grêmio,193,116,37,40,05/06/2013,08/12/2024,{'Gremio': 193}
-Jóia da Princesa,1,1,0,0,09/06/2013,09/06/2013,{'Vitoria': 1}
-Vila Capanema,38,17,8,13,06/07/2013,11/11/2023,"{'Athletico-PR': 16, 'Coritiba': 4, 'Parana': 18}"
-Arena Pernambuco,18,4,12,2,06/07/2013,07/12/2013,"{'Nautico': 17, 'Botafogo-RJ': 1}"
-Estádio do Vale,8,1,3,4,11/08/2013,29/09/2013,{'Internacional': 8}
-Romildão,2,1,0,1,02/10/2013,09/10/2013,{'Corinthians': 2}
-Novelli Júnior,3,2,1,0,19/10/2013,08/12/2013,"{'Corinthians': 1, 'Sao Paulo': 2}"
-Castelão (CE),1,0,0,1,27/10/2013,27/10/2013,{'Portuguesa': 1}
-Estádio José Pinheiro Borda,150,95,21,34,19/04/2014,13/11/2022,{'Internacional': 150}
-Arena Condá,133,49,47,37,19/04/2014,28/07/2024,"{'Chapecoense': 132, 'Gremio': 1}"
-Itaipava Arena Fonte Nova,112,49,31,32,20/04/2014,06/12/2023,"{'Bahia': 106, 'Vitoria': 6}"
-Estádio Municipal Parque do Sabiá,7,1,2,4,20/04/2014,26/11/2023,"{'Atletico-MG': 1, 'Cruzeiro': 3, 'Athletico-PR': 1, 'America-MG': 2}"
-Estádio Nacional de Brasília,29,9,14,6,20/04/2014,20/07/2022,"{'Flamengo': 11, 'Athletico-PR': 1, 'Botafogo-RJ': 5, 'Fluminense': 5, 'Atletico-MG': 1, 'Vasco': 4, 'CSA': 1, 'Avai': 1}"
-Estádio Urbano Caldeira,165,96,32,37,20/04/2014,06/12/2023,"{'Santos': 164, 'Sao Paulo': 1}"
-Estádio Heriberto Hülse,40,12,14,14,20/04/2014,04/12/2024,"{'Criciuma': 38, 'Internacional': 2}"
-Estádio Municipal Paulo Machado de Carvalho,63,37,10,16,26/04/2014,09/11/2019,"{'Palmeiras': 30, 'Corinthians': 2, 'Sao Paulo': 10, 'Santos': 19, 'Flamengo': 2}"
-Estádio de Pituaçu,26,10,11,5,27/04/2014,04/09/2021,"{'Vitoria': 2, 'Bahia': 24}"
-Adelmar da Costa Carvalho,105,47,30,28,27/04/2014,17/10/2021,{'Sport': 105}
-Estádio Municipal Juscelino Kubitschek,1,1,0,0,27/04/2014,27/04/2014,{'Goias': 1}
-Estádio Raimundo Sampaio,201,101,60,40,04/05/2014,03/12/2023,"{'Atletico-MG': 101, 'America-MG': 90, 'Cruzeiro': 10}"
-Helenão,5,4,0,1,14/05/2014,20/08/2016,"{'Goias': 1, 'Botafogo-RJ': 4}"
-Neo Química Arena,204,111,26,67,18/05/2014,03/12/2024,"{'Corinthians': 203, 'Flamengo': 1}"
-Estádio Willie Davids,2,1,0,1,18/05/2014,25/05/2014,{'Athletico-PR': 2}
-Arena Pantanal,85,25,34,26,18/05/2014,08/12/2024,"{'Santos': 3, 'Goias': 1, 'Corinthians': 1, 'Cruzeiro': 1, 'Vasco': 1, 'Ponte Preta': 1, 'Santa Cruz': 1, 'Cuiaba': 76}"
-Estádio Dr. Oswaldo Teixeira Duarte,2,1,0,1,21/05/2014,28/05/2014,{'Corinthians': 2}
-Estádio do Governo do Estado de Goiás (Serra Dourada),60,26,23,11,22/05/2014,08/06/2022,"{'Goias': 53, 'Atletico-GO': 7}"
-Estádio Doutor Adhemar de Barros,3,2,0,1,22/05/2014,13/10/2016,"{'Palmeiras': 2, 'Corinthians': 1}"
-Estádio Alberto Oliveira,5,2,3,0,22/05/2014,03/08/2016,"{'Vitoria': 3, 'Bahia': 2}"
-Estádio Francisco Stédile (Centenário),4,3,1,0,25/05/2014,09/10/2019,"{'Internacional': 2, 'Gremio': 2}"
-Estádio Ipatingão,2,1,0,1,25/05/2014,28/05/2014,{'Atletico-MG': 2}
-Estádio Paulo Constantino,1,0,1,0,28/05/2014,28/05/2014,{'Palmeiras': 1}
-Primeiro de Maio São Bernardo do Campo,1,1,0,0,01/06/2014,01/06/2014,{'Santos': 1}
-Estádio Municipal General Raulino de Oliveira,26,11,6,9,19/07/2014,25/10/2023,"{'Botafogo-RJ': 6, 'Fluminense': 12, 'Flamengo': 5, 'Vasco': 3}"
-Estádio Joaquim Américo Guimarães,164,93,33,38,20/07/2014,13/11/2022,{'Athletico-PR': 164}
-Arena de Pernambuco,29,14,4,11,20/08/2014,09/12/2021,"{'Sport': 28, 'Santa Cruz': 1}"
-Arena da Amazônia,4,3,0,1,11/10/2014,04/05/2019,"{'Botafogo-RJ': 2, 'Flamengo': 1, 'Vasco': 1}"
-Estádio Vasco da Gama,76,34,21,21,19/11/2014,23/08/2021,"{'Botafogo-RJ': 1, 'Vasco': 70, 'Fluminense': 5}"
-Allianz Parque,165,103,28,34,19/11/2014,08/12/2024,{'Palmeiras': 165}
-Castelão de São Luís,1,0,0,1,23/11/2014,23/11/2014,{'Flamengo': 1}
-Arena das Dunas,2,1,1,0,02/09/2015,26/06/2016,{'Flamengo': 2}
-Estádio Nilton Santos,139,67,43,29,01/11/2015,08/12/2024,"{'Vasco': 4, 'Botafogo-RJ': 129, 'Fluminense': 5, 'Flamengo': 1}"
-Kléber Andrade,13,7,4,2,22/11/2015,05/08/2024,"{'Fluminense': 4, 'Flamengo': 6, 'Vasco': 1, 'Gremio': 1, 'Cruzeiro': 1}"
-Estádio do Arruda,17,7,9,1,15/05/2016,27/11/2016,{'Santa Cruz': 17}
-Luso-Brasileiro,27,17,5,5,16/07/2016,26/06/2023,"{'Botafogo-RJ': 11, 'Flamengo': 15, 'Vasco': 1}"
-Estádio Giulite Coutinho,10,5,2,3,17/07/2016,20/07/2017,{'Fluminense': 10}
-Estádio Olímpico Pedro Ludovico Teixeira,25,6,9,10,08/06/2017,07/11/2020,{'Atletico-GO': 25}
-Arena Castelão,202,92,47,63,22/04/2018,08/12/2024,"{'Ceara': 90, 'Fortaleza': 112}"
-Estádio Presidente Vargas,7,4,1,2,18/07/2018,02/06/2024,"{'Ceara': 5, 'Fortaleza': 2}"
-Estádio Rei Pelé,18,6,7,5,01/05/2019,08/12/2019,{'CSA': 18}
-Estádio Brinco de Ouro,4,4,0,0,05/12/2019,16/10/2024,"{'Palmeiras': 3, 'Sao Paulo': 1}"
-Nabizão,95,44,20,31,12/08/2020,08/12/2024,{'Bragantino': 95}
-Estádio da Serrinha,38,12,13,13,19/08/2020,13/11/2022,{'Goias': 38}
-Estádio Antônio Accioly,44,15,10,19,28/11/2020,09/11/2022,{'Atletico-GO': 44}
-Ligga Arena,38,17,9,12,15/04/2023,05/12/2024,{'Athletico-PR': 38}
-Estádio Beira-Rio,35,19,7,9,23/04/2023,04/12/2024,{'Internacional': 35}
-Estádio Hailé Pinheiro - Serrinha,19,5,7,7,23/04/2023,06/12/2023,{'Goias': 19}
-Estádio São Januário,31,15,10,6,01/05/2023,04/12/2024,"{'Vasco': 30, 'Botafogo-RJ': 1}"
-Estádio Joaquim Henrique Nogueira-Arena do jacaré,1,0,1,0,22/05/2023,22/05/2023,{'Cruzeiro': 1}
-Arena MRV,25,14,5,6,27/08/2023,08/12/2024,{'Atletico-MG': 25}
-Arena BRB Mané Garrincha,7,2,2,3,01/11/2023,29/09/2024,"{'Flamengo': 2, 'Juventude': 2, 'Vasco': 1, 'Botafogo-RJ': 1, 'Sao Paulo': 1}"
-MorumBIS,17,10,4,3,13/04/2024,04/12/2024,{'Sao Paulo': 17}
-Estádio Serra Dourada,1,0,1,0,14/04/2024,14/04/2024,{'Atletico-GO': 1}
-Arena Fonte Nova,19,11,5,3,16/04/2024,08/12/2024,{'Bahia': 19}
-Estádio Antônio Accioly - Atlético Goianiense,18,5,8,5,21/04/2024,04/12/2024,{'Atletico-GO': 18}
-Estádio Francisco Stédile | Centenário,4,2,1,1,30/06/2024,21/07/2024,{'Gremio': 4}
-Estádio Independência,4,1,2,1,13/07/2024,26/11/2024,"{'Cruzeiro': 2, 'Atletico-MG': 2}"
+estadio,partidas,vitorias_casa,vitorias_fora,empates,data_primeira_partida,data_ultima_partida,times_casa,latitude,longitude
+ Brinco de Ouro,66,30,14,22,29/03/2003,28/11/2010,"{'Guarani': 65, 'Corinthians': 1}",-22.9095729,-47.0433697
+ Arena da Baixada,120,70,17,33,29/03/2003,04/12/2011,"{'Athletico-PR': 119, 'Parana': 1}",-12.1266213,-45.0113082
+ Maracanã,669,341,140,188,30/03/2003,08/12/2024,"{'Flamengo': 281, 'Fluminense': 296, 'Vasco': 35, 'Botafogo-RJ': 57}",-22.9121619,-43.2311861
+ Serra Dourada,235,115,61,59,30/03/2003,08/12/2013,"{'Goias': 179, 'Athletico-PR': 1, 'Atletico-GO': 55}",-12.758418,-43.9500907
+ Beira Rio,200,117,36,47,30/03/2003,25/11/2012,{'Internacional': 200},-30.0654898,-51.2349178
+ Heriberto Hulse,64,33,18,13,30/03/2003,01/12/2013,{'Criciuma': 64},-28.6843232,-49.3676706
+ Alfredo Jaconi,164,70,37,57,30/03/2003,08/12/2024,"{'Juventude': 158, 'Gremio': 6}",-29.162264,-51.1764503
+ Castelão,64,28,17,19,30/03/2003,28/11/2010,"{'Fortaleza': 45, 'Ceara': 19}",-3.806742,-38.5216794
+ Mineirão,476,255,105,116,30/03/2003,04/12/2024,"{'Cruzeiro': 290, 'Atletico-MG': 184, 'America-MG': 2}",-19.8659115,-43.9710434
+ Barradão,202,90,60,52,30/03/2003,04/12/2024,{'Vitoria': 202},-12.9190959,-38.4271321
+ Vila Belmiro,192,105,33,54,30/03/2003,03/11/2013,"{'Santos': 191, 'Ponte Preta': 1}",-23.9513973,-46.3374426
+ Pacaembu,213,116,46,51,30/03/2003,30/11/2013,"{'Corinthians': 169, 'Santos': 13, 'Palmeiras': 28, 'Sao Paulo': 2, 'Portuguesa': 1}",-21.566243,-51.2633114
+ Couto Pereira,297,140,85,72,05/04/2003,22/06/2024,"{'Coritiba': 290, 'Parana': 4, 'Athletico-PR': 1, 'Gremio': 2}",40.87741,-8.4946954
+ Olímpico,172,99,30,43,05/04/2003,02/12/2012,{'Gremio': 172},3.4220246,-76.5324657
+ Fonte Nova,43,18,11,14,06/04/2003,08/12/2013,"{'Bahia': 40, 'Vitoria': 3}",-12.9787926,-38.5035601
+ Orlando Scarpelli,220,96,54,70,06/04/2003,19/06/2024,"{'Figueirense': 216, 'Parana': 1, 'Flamengo': 1, 'Athletico-PR': 1, 'Internacional': 1}",-27.5855462,-48.5864658
+ Mangueirão,66,33,17,16,06/04/2003,19/11/2014,"{'Paysandu': 65, 'Goias': 1}",-1.3811727,-48.4439318
+ Moisés Lucarelli,179,82,57,40,06/04/2003,26/11/2017,{'Ponte Preta': 179},-22.9135401,-47.0511882
+ Pinheirão,65,39,15,11,06/04/2003,10/09/2006,{'Parana': 65},32.7287418,-17.0191414
+ Anacleto Campanella,86,43,24,19,06/04/2003,02/08/2009,"{'Sao Caetano': 85, 'Santo Andre': 1}",-23.6297858,-46.5598059
+ Morumbi,413,229,70,114,06/04/2003,06/12/2023,"{'Sao Paulo': 386, 'Corinthians': 19, 'Palmeiras': 5, 'Atletico-MG': 1, 'Santos': 1, 'Flamengo': 1}",-23.5964988,-46.7178446
+ São Januário,170,85,40,45,06/04/2003,18/09/2013,"{'Vasco': 163, 'Fluminense': 4, 'Botafogo-RJ': 3}",-15.0103622,13.3766075
+ Presidente Vargas,34,13,11,10,13/04/2003,27/11/2011,"{'Fortaleza': 15, 'Ceara': 19}",-3.4065166,-44.0270508
+  Independência,71,44,9,18,24/05/2003,08/12/2013,"{'Atletico-MG': 52, 'Cruzeiro': 19}",-27.8523717,-54.1909592
+  Giulite Coutinho,5,1,3,1,19/07/2003,19/07/2007,"{'Fluminense': 3, 'Flamengo': 1, 'Botafogo-RJ': 1}",-22.7958764,-43.4196745
+  Santa Cruz,3,1,0,2,16/08/2003,20/09/2009,"{'Sao Paulo': 1, 'Figueirense': 1, 'Santo Andre': 1}",28.467178,-16.2507843
+  Willie Davids,6,1,4,1,24/08/2003,14/05/2006,{'Parana': 6},-23.4141502,-51.9382184
+  Benedito Teixeira,3,3,0,0,30/08/2003,05/12/2004,"{'Sao Paulo': 1, 'Santos': 2}",-20.7973129,-49.3594156
+  Estádio do Café,6,1,3,2,22/10/2003,18/11/2018,"{'Athletico-PR': 2, 'Parana': 2, 'Figueirense': 1, 'America-MG': 1}",-23.2825777,-51.1646091
+  Ressacada,134,45,44,45,08/11/2003,09/11/2022,"{'Criciuma': 1, 'Avai': 132, 'Vasco': 1}",-26.9265661,-48.6773506
+  Ipatingão,32,14,14,4,22/11/2003,31/08/2011,"{'Atletico-MG': 10, 'Cruzeiro': 3, 'Ipatinga': 19}",-19.4711433,-42.5417032
+  Caio Martins,19,8,4,7,21/04/2004,12/12/2004,{'Botafogo-RJ': 19},-19.8588054,-44.3101355
+  Parque Antártica,75,43,18,14,21/04/2004,22/05/2010,{'Palmeiras': 75},-23.5274971,-46.6785281
+  Raulino de Oliveira,73,38,18,17,24/04/2004,08/06/2013,"{'Flamengo': 31, 'Fluminense': 34, 'Botafogo-RJ': 6, 'Vasco': 2}",-22.5082783,-44.0969542
+  Prudentão,25,9,10,6,14/11/2004,24/11/2013,"{'Santos': 2, 'Palmeiras': 3, 'Barueri': 1, 'Gremio Prudente': 19}",-22.098568,-51.4150621
+  Colosso da Lagoa,3,0,2,1,14/11/2004,11/12/2004,"{'Juventude': 1, 'Gremio': 2}",-27.6512664,-52.2649018
+Teixeirão,5,3,1,1,19/12/2004,01/12/2013,"{'Santos': 2, 'Corinthians': 1, 'Santo Andre': 1, 'Palmeiras': 1}",-8.740405,-63.8440794
+  Mané Garrincha,15,3,3,9,24/04/2005,06/10/2013,"{'Brasiliense': 3, 'Botafogo-RJ': 2, 'Fluminense': 1, 'Santos': 1, 'Flamengo': 6, 'Vasco': 2}",2.8258823,-60.7258689
+  Luso Brasileiro,34,16,8,10,15/05/2005,04/12/2005,"{'Flamengo': 16, 'Botafogo-RJ': 18}",-22.8988228,-43.5754145
+  Boca do Jacaré,18,5,8,5,15/05/2005,04/11/2012,"{'Brasiliense': 17, 'Atletico-GO': 1}",-15.8360896,-48.0806437
+  Arruda,21,7,9,5,16/04/2006,22/06/2008,"{'Santa Cruz': 19, 'Nautico': 2}",-8.0250816,-34.8913229
+  Kyocera Arena,56,30,11,15,16/04/2006,07/12/2008,{'Athletico-PR': 56},Unk,Unk
+  Centenário (*PF),3,3,0,0,13/08/2006,30/08/2006,{'Gremio': 3},Unk,Unk
+  Durival de Brito,26,13,8,5,20/09/2006,25/11/2007,{'Parana': 26},Unk,Unk
+Machadão,19,2,14,3,13/05/2007,24/11/2007,{'America-RN': 19},-22.5781925,-45.8255477
+Ilha do Retiro,76,36,20,20,13/05/2007,25/11/2012,{'Sport': 76},-8.063751,-34.9038034
+Aflitos,75,37,22,16,20/05/2007,02/06/2013,{'Nautico': 75},-8.0392007,-34.8967064
+Parque do Sabiá,14,7,5,2,19/07/2007,17/11/2013,"{'Flamengo': 1, 'Cruzeiro': 10, 'America-MG': 3}",-18.9130871,-48.2329942
+Engenhão,177,88,35,54,06/10/2007,02/12/2012,"{'Botafogo-RJ': 95, 'Flamengo': 35, 'Fluminense': 40, 'Vasco': 7}",-22.893194,-43.2935691
+Canindé,63,28,11,24,11/05/2008,08/12/2013,"{'Portuguesa': 53, 'Palmeiras': 10}",-4.3547946,-39.3108516
+Palestra Itália,36,24,4,8,18/05/2008,29/11/2009,{'Palmeiras': 36},-23.5295509,-46.6776241
+Bruno José Daniel,16,8,5,3,10/05/2009,29/11/2009,{'Santo Andre': 16},-23.6695673,-46.5093186
+Arena Barueri,49,23,12,14,17/05/2009,12/05/2024,"{'Barueri': 18, 'Palmeiras': 21, 'Santos': 3, 'Sao Paulo': 5, 'Figueirense': 1, 'Bahia': 1}",-23.5129134,-46.8995163
+Arena do Jacaré,71,36,15,20,15/07/2010,09/06/2013,"{'Atletico-MG': 29, 'Cruzeiro': 27, 'America-MG': 15}",-19.4786086,-44.2221061
+Fonte Luminosa,7,3,2,2,21/11/2010,10/11/2013,"{'Palmeiras': 4, 'Corinthians': 3}",38.7372982,-9.1305038
+Cláudio Moacyr,4,2,1,1,21/05/2011,27/11/2011,{'Flamengo': 4},-22.3566097,-41.7717523
+Pituaçu,39,12,10,17,29/05/2011,29/05/2013,{'Bahia': 39},-12.9651749,-38.4143371
+Melão,3,2,0,1,10/06/2012,10/10/2012,{'Cruzeiro': 3},-13.5860089,-40.8772088
+Moacyrzão,11,5,3,3,26/05/2013,16/07/2014,"{'Fluminense': 5, 'Vasco': 3, 'Flamengo': 2, 'Botafogo-RJ': 1}",-22.357247,-41.7717766
+Centenário (RS),11,6,2,3,30/05/2013,08/12/2013,{'Internacional': 11},-27.7608249,-51.9984409
+Arena Joinville,22,8,6,8,01/06/2013,06/12/2015,"{'Athletico-PR': 3, 'Joinville': 19}",-26.3168552,-48.8334996
+Arena do Grêmio,193,116,37,40,05/06/2013,08/12/2024,{'Gremio': 193},-29.9740429,-51.1951073
+Vila Capanema,38,17,8,13,06/07/2013,11/11/2023,"{'Athletico-PR': 16, 'Coritiba': 4, 'Parana': 18}",-25.4393938,-49.2558444
+Arena Pernambuco,18,4,12,2,06/07/2013,07/12/2013,"{'Nautico': 17, 'Botafogo-RJ': 1}",-8.8375514,-35.5725273
+Estádio do Vale,8,1,3,4,11/08/2013,29/09/2013,{'Internacional': 8},-29.7261999,-51.1437871
+Novelli Júnior,3,2,1,0,19/10/2013,08/12/2013,"{'Corinthians': 1, 'Sao Paulo': 2}",-23.2812738,-47.2879709
+Estádio José Pinheiro Borda,150,95,21,34,19/04/2014,13/11/2022,{'Internacional': 150},-30.0654898,-51.2349178
+Arena Condá,133,49,47,37,19/04/2014,28/07/2024,"{'Chapecoense': 132, 'Gremio': 1}",-27.1040925,-52.6069818
+Itaipava Arena Fonte Nova,112,49,31,32,20/04/2014,06/12/2023,"{'Bahia': 106, 'Vitoria': 6}",-12.9787926,-38.5035601
+Estádio Municipal Parque do Sabiá,7,1,2,4,20/04/2014,26/11/2023,"{'Atletico-MG': 1, 'Cruzeiro': 3, 'Athletico-PR': 1, 'America-MG': 2}",-18.9130871,-48.2329942
+Estádio Nacional de Brasília,29,9,14,6,20/04/2014,20/07/2022,"{'Flamengo': 11, 'Athletico-PR': 1, 'Botafogo-RJ': 5, 'Fluminense': 5, 'Atletico-MG': 1, 'Vasco': 4, 'CSA': 1, 'Avai': 1}",Unk,Unk
+Estádio Urbano Caldeira,165,96,32,37,20/04/2014,06/12/2023,"{'Santos': 164, 'Sao Paulo': 1}",-23.9511157,-46.3389913
+Estádio Heriberto Hülse,40,12,14,14,20/04/2014,04/12/2024,"{'Criciuma': 38, 'Internacional': 2}",-28.6843232,-49.3676706
+Estádio Municipal Paulo Machado de Carvalho,63,37,10,16,26/04/2014,09/11/2019,"{'Palmeiras': 30, 'Corinthians': 2, 'Sao Paulo': 10, 'Santos': 19, 'Flamengo': 2}",-23.5485641,-46.6653519
+Estádio de Pituaçu,26,10,11,5,27/04/2014,04/09/2021,"{'Vitoria': 2, 'Bahia': 24}",-12.9460572,-38.4186122
+Adelmar da Costa Carvalho,105,47,30,28,27/04/2014,17/10/2021,{'Sport': 105},-8.0630099,-34.9036005
+Estádio Raimundo Sampaio,201,101,60,40,04/05/2014,03/12/2023,"{'Atletico-MG': 101, 'America-MG': 90, 'Cruzeiro': 10}",-19.9083526,-43.917778
+Helenão,5,4,0,1,14/05/2014,20/08/2016,"{'Goias': 1, 'Botafogo-RJ': 4}",58.1911927,15.9796351
+Neo Química Arena,204,111,26,67,18/05/2014,03/12/2024,"{'Corinthians': 203, 'Flamengo': 1}",-23.5453328,-46.4743055
+Arena Pantanal,85,25,34,26,18/05/2014,08/12/2024,"{'Santos': 3, 'Goias': 1, 'Corinthians': 1, 'Cruzeiro': 1, 'Vasco': 1, 'Ponte Preta': 1, 'Santa Cruz': 1, 'Cuiaba': 76}",-15.6040649,-56.1222989
+Estádio do Governo do Estado de Goiás (Serra Dourada),60,26,23,11,22/05/2014,08/06/2022,"{'Goias': 53, 'Atletico-GO': 7}",Unk,Unk
+Estádio Doutor Adhemar de Barros,3,2,0,1,22/05/2014,13/10/2016,"{'Palmeiras': 2, 'Corinthians': 1}",Unk,Unk
+Estádio Alberto Oliveira,5,2,3,0,22/05/2014,03/08/2016,"{'Vitoria': 3, 'Bahia': 2}",Unk,Unk
+Estádio Francisco Stédile (Centenário),4,3,1,0,25/05/2014,09/10/2019,"{'Internacional': 2, 'Gremio': 2}",-29.1650091,-51.1966128
+Estádio Municipal General Raulino de Oliveira,26,11,6,9,19/07/2014,25/10/2023,"{'Botafogo-RJ': 6, 'Fluminense': 12, 'Flamengo': 5, 'Vasco': 3}",Unk,Unk
+Estádio Joaquim Américo Guimarães,164,93,33,38,20/07/2014,13/11/2022,{'Athletico-PR': 164},-25.4483457,-49.2768771
+Arena de Pernambuco,29,14,4,11,20/08/2014,09/12/2021,"{'Sport': 28, 'Santa Cruz': 1}",-8.0458769,-35.0105198
+Arena da Amazônia,4,3,0,1,11/10/2014,04/05/2019,"{'Botafogo-RJ': 2, 'Flamengo': 1, 'Vasco': 1}",-3.0831132,-60.0280052
+Estádio Vasco da Gama,76,34,21,21,19/11/2014,23/08/2021,"{'Botafogo-RJ': 1, 'Vasco': 70, 'Fluminense': 5}",-22.8908007,-43.2282681
+Allianz Parque,165,103,28,34,19/11/2014,08/12/2024,{'Palmeiras': 165},-23.5274971,-46.6785281
+Estádio Nilton Santos,139,67,43,29,01/11/2015,08/12/2024,"{'Vasco': 4, 'Botafogo-RJ': 129, 'Fluminense': 5, 'Flamengo': 1}",-10.2821413,-48.3306497
+Kléber Andrade,13,7,4,2,22/11/2015,05/08/2024,"{'Fluminense': 4, 'Flamengo': 6, 'Vasco': 1, 'Gremio': 1, 'Cruzeiro': 1}",-20.3328869,-40.3852545
+Estádio do Arruda,17,7,9,1,15/05/2016,27/11/2016,{'Santa Cruz': 17},-8.0268093,-34.8911967
+Luso-Brasileiro,27,17,5,5,16/07/2016,26/06/2023,"{'Botafogo-RJ': 11, 'Flamengo': 15, 'Vasco': 1}",-22.8988228,-43.5754145
+Estádio Giulite Coutinho,10,5,2,3,17/07/2016,20/07/2017,{'Fluminense': 10},-22.7958764,-43.4196745
+Estádio Olímpico Pedro Ludovico Teixeira,25,6,9,10,08/06/2017,07/11/2020,{'Atletico-GO': 25},-16.6708887,-49.2625742
+Arena Castelão,202,92,47,63,22/04/2018,08/12/2024,"{'Ceara': 90, 'Fortaleza': 112}",-3.806742,-38.5216794
+Estádio Presidente Vargas,7,4,1,2,18/07/2018,02/06/2024,"{'Ceara': 5, 'Fortaleza': 2}",-7.2277251,-35.8948444
+Estádio Rei Pelé,18,6,7,5,01/05/2019,08/12/2019,{'CSA': 18},-9.6709074,-35.7596546
+Estádio Brinco de Ouro,4,4,0,0,05/12/2019,16/10/2024,"{'Palmeiras': 3, 'Sao Paulo': 1}",-22.9095729,-47.0433697
+Nabizão,95,44,20,31,12/08/2020,08/12/2024,{'Bragantino': 95},-22.9653902,-46.5368855
+Estádio da Serrinha,38,12,13,13,19/08/2020,13/11/2022,{'Goias': 38},-22.722203,-43.5602427
+Estádio Antônio Accioly,44,15,10,19,28/11/2020,09/11/2022,{'Atletico-GO': 44},-16.6695309,-49.2841376
+Ligga Arena,38,17,9,12,15/04/2023,05/12/2024,{'Athletico-PR': 38},-25.4483457,-49.2768771
+Estádio Beira-Rio,35,19,7,9,23/04/2023,04/12/2024,{'Internacional': 35},-21.2855213,-42.552353
+Estádio Hailé Pinheiro - Serrinha,19,5,7,7,23/04/2023,06/12/2023,{'Goias': 19},-16.7112422,-49.2611903
+Estádio São Januário,31,15,10,6,01/05/2023,04/12/2024,"{'Vasco': 30, 'Botafogo-RJ': 1}",-22.8908007,-43.2282681
+Arena MRV,25,14,5,6,27/08/2023,08/12/2024,{'Atletico-MG': 25},-19.9300116,-44.0138813
+Arena BRB Mané Garrincha,7,2,2,3,01/11/2023,29/09/2024,"{'Flamengo': 2, 'Juventude': 2, 'Vasco': 1, 'Botafogo-RJ': 1, 'Sao Paulo': 1}",-15.7837498,-47.8990287
+MorumBIS,17,10,4,3,13/04/2024,04/12/2024,{'Sao Paulo': 17},-23.6001016,-46.7201264
+Arena Fonte Nova,19,11,5,3,16/04/2024,08/12/2024,{'Bahia': 19},-12.9787926,-38.5035601
+Estádio Antônio Accioly - Atlético Goianiense,18,5,8,5,21/04/2024,04/12/2024,{'Atletico-GO': 18},Unk,Unk
+Estádio Francisco Stédile | Centenário,4,2,1,1,30/06/2024,21/07/2024,{'Gremio': 4},-29.1650091,-51.1966128
+Estádio Independência,4,1,2,1,13/07/2024,26/11/2024,"{'Cruzeiro': 2, 'Atletico-MG': 2}",13.0978519,-86.3528973
