@@ -1,48 +1,48 @@
 estadio,partidas,vitorias_casa,vitorias_fora,empates,data_primeira_partida,data_ultima_partida,times_casa,latitude,longitude
- Brinco de Ouro,66,30,14,22,29/03/2003,28/11/2010,"{'Guarani': 65, 'Corinthians': 1}",-22.9095729,-47.0433697
- Arena da Baixada,120,70,17,33,29/03/2003,04/12/2011,"{'Athletico-PR': 119, 'Parana': 1}",-12.1266213,-45.0113082
- Maracanã,669,341,140,188,30/03/2003,08/12/2024,"{'Flamengo': 281, 'Fluminense': 296, 'Vasco': 35, 'Botafogo-RJ': 57}",-22.9121619,-43.2311861
- Serra Dourada,235,115,61,59,30/03/2003,08/12/2013,"{'Goias': 179, 'Athletico-PR': 1, 'Atletico-GO': 55}",-12.758418,-43.9500907
- Beira Rio,200,117,36,47,30/03/2003,25/11/2012,{'Internacional': 200},-30.0654898,-51.2349178
- Heriberto Hulse,64,33,18,13,30/03/2003,01/12/2013,{'Criciuma': 64},-28.6843232,-49.3676706
- Alfredo Jaconi,164,70,37,57,30/03/2003,08/12/2024,"{'Juventude': 158, 'Gremio': 6}",-29.162264,-51.1764503
- Castelão,64,28,17,19,30/03/2003,28/11/2010,"{'Fortaleza': 45, 'Ceara': 19}",-3.806742,-38.5216794
- Mineirão,476,255,105,116,30/03/2003,04/12/2024,"{'Cruzeiro': 290, 'Atletico-MG': 184, 'America-MG': 2}",-19.8659115,-43.9710434
- Barradão,202,90,60,52,30/03/2003,04/12/2024,{'Vitoria': 202},-12.9190959,-38.4271321
- Vila Belmiro,192,105,33,54,30/03/2003,03/11/2013,"{'Santos': 191, 'Ponte Preta': 1}",-23.9513973,-46.3374426
- Pacaembu,213,116,46,51,30/03/2003,30/11/2013,"{'Corinthians': 169, 'Santos': 13, 'Palmeiras': 28, 'Sao Paulo': 2, 'Portuguesa': 1}",-21.566243,-51.2633114
- Couto Pereira,297,140,85,72,05/04/2003,22/06/2024,"{'Coritiba': 290, 'Parana': 4, 'Athletico-PR': 1, 'Gremio': 2}",40.87741,-8.4946954
- Olímpico,172,99,30,43,05/04/2003,02/12/2012,{'Gremio': 172},3.4220246,-76.5324657
- Fonte Nova,43,18,11,14,06/04/2003,08/12/2013,"{'Bahia': 40, 'Vitoria': 3}",-12.9787926,-38.5035601
- Orlando Scarpelli,220,96,54,70,06/04/2003,19/06/2024,"{'Figueirense': 216, 'Parana': 1, 'Flamengo': 1, 'Athletico-PR': 1, 'Internacional': 1}",-27.5855462,-48.5864658
- Mangueirão,66,33,17,16,06/04/2003,19/11/2014,"{'Paysandu': 65, 'Goias': 1}",-1.3811727,-48.4439318
- Moisés Lucarelli,179,82,57,40,06/04/2003,26/11/2017,{'Ponte Preta': 179},-22.9135401,-47.0511882
- Pinheirão,65,39,15,11,06/04/2003,10/09/2006,{'Parana': 65},32.7287418,-17.0191414
- Anacleto Campanella,86,43,24,19,06/04/2003,02/08/2009,"{'Sao Caetano': 85, 'Santo Andre': 1}",-23.6297858,-46.5598059
- Morumbi,413,229,70,114,06/04/2003,06/12/2023,"{'Sao Paulo': 386, 'Corinthians': 19, 'Palmeiras': 5, 'Atletico-MG': 1, 'Santos': 1, 'Flamengo': 1}",-23.5964988,-46.7178446
- São Januário,170,85,40,45,06/04/2003,18/09/2013,"{'Vasco': 163, 'Fluminense': 4, 'Botafogo-RJ': 3}",-15.0103622,13.3766075
- Presidente Vargas,34,13,11,10,13/04/2003,27/11/2011,"{'Fortaleza': 15, 'Ceara': 19}",-3.4065166,-44.0270508
-  Independência,71,44,9,18,24/05/2003,08/12/2013,"{'Atletico-MG': 52, 'Cruzeiro': 19}",-27.8523717,-54.1909592
-  Giulite Coutinho,5,1,3,1,19/07/2003,19/07/2007,"{'Fluminense': 3, 'Flamengo': 1, 'Botafogo-RJ': 1}",-22.7958764,-43.4196745
-  Santa Cruz,3,1,0,2,16/08/2003,20/09/2009,"{'Sao Paulo': 1, 'Figueirense': 1, 'Santo Andre': 1}",28.467178,-16.2507843
-  Willie Davids,6,1,4,1,24/08/2003,14/05/2006,{'Parana': 6},-23.4141502,-51.9382184
-  Benedito Teixeira,3,3,0,0,30/08/2003,05/12/2004,"{'Sao Paulo': 1, 'Santos': 2}",-20.7973129,-49.3594156
-  Estádio do Café,6,1,3,2,22/10/2003,18/11/2018,"{'Athletico-PR': 2, 'Parana': 2, 'Figueirense': 1, 'America-MG': 1}",-23.2825777,-51.1646091
-  Ressacada,134,45,44,45,08/11/2003,09/11/2022,"{'Criciuma': 1, 'Avai': 132, 'Vasco': 1}",-26.9265661,-48.6773506
-  Ipatingão,32,14,14,4,22/11/2003,31/08/2011,"{'Atletico-MG': 10, 'Cruzeiro': 3, 'Ipatinga': 19}",-19.4711433,-42.5417032
-  Caio Martins,19,8,4,7,21/04/2004,12/12/2004,{'Botafogo-RJ': 19},-19.8588054,-44.3101355
-  Parque Antártica,75,43,18,14,21/04/2004,22/05/2010,{'Palmeiras': 75},-23.5274971,-46.6785281
-  Raulino de Oliveira,73,38,18,17,24/04/2004,08/06/2013,"{'Flamengo': 31, 'Fluminense': 34, 'Botafogo-RJ': 6, 'Vasco': 2}",-22.5082783,-44.0969542
-  Prudentão,25,9,10,6,14/11/2004,24/11/2013,"{'Santos': 2, 'Palmeiras': 3, 'Barueri': 1, 'Gremio Prudente': 19}",-22.098568,-51.4150621
-  Colosso da Lagoa,3,0,2,1,14/11/2004,11/12/2004,"{'Juventude': 1, 'Gremio': 2}",-27.6512664,-52.2649018
+Brinco de Ouro,66,30,14,22,29/03/2003,28/11/2010,"{'Guarani': 65, 'Corinthians': 1}",-22.9095729,-47.0433697
+Arena da Baixada,120,70,17,33,29/03/2003,04/12/2011,"{'Athletico-PR': 119, 'Parana': 1}",-12.1266213,-45.0113082
+Maracanã,669,341,140,188,30/03/2003,08/12/2024,"{'Flamengo': 281, 'Fluminense': 296, 'Vasco': 35, 'Botafogo-RJ': 57}",-22.9121619,-43.2311861
+Serra Dourada,235,115,61,59,30/03/2003,08/12/2013,"{'Goias': 179, 'Athletico-PR': 1, 'Atletico-GO': 55}",-12.758418,-43.9500907
+Beira Rio,200,117,36,47,30/03/2003,25/11/2012,{'Internacional': 200},-30.0654898,-51.2349178
+Heriberto Hulse,64,33,18,13,30/03/2003,01/12/2013,{'Criciuma': 64},-28.6843232,-49.3676706
+Alfredo Jaconi,164,70,37,57,30/03/2003,08/12/2024,"{'Juventude': 158, 'Gremio': 6}",-29.162264,-51.1764503
+Castelão,64,28,17,19,30/03/2003,28/11/2010,"{'Fortaleza': 45, 'Ceara': 19}",-3.806742,-38.5216794
+Mineirão,476,255,105,116,30/03/2003,04/12/2024,"{'Cruzeiro': 290, 'Atletico-MG': 184, 'America-MG': 2}",-19.8659115,-43.9710434
+Barradão,202,90,60,52,30/03/2003,04/12/2024,{'Vitoria': 202},-12.9190959,-38.4271321
+Vila Belmiro,192,105,33,54,30/03/2003,03/11/2013,"{'Santos': 191, 'Ponte Preta': 1}",-23.9513973,-46.3374426
+Pacaembu,213,116,46,51,30/03/2003,30/11/2013,"{'Corinthians': 169, 'Santos': 13, 'Palmeiras': 28, 'Sao Paulo': 2, 'Portuguesa': 1}",-21.566243,-51.2633114
+Couto Pereira,297,140,85,72,05/04/2003,22/06/2024,"{'Coritiba': 290, 'Parana': 4, 'Athletico-PR': 1, 'Gremio': 2}",40.87741,-8.4946954
+Olímpico,172,99,30,43,05/04/2003,02/12/2012,{'Gremio': 172},3.4220246,-76.5324657
+Fonte Nova,43,18,11,14,06/04/2003,08/12/2013,"{'Bahia': 40, 'Vitoria': 3}",-12.9787926,-38.5035601
+Orlando Scarpelli,220,96,54,70,06/04/2003,19/06/2024,"{'Figueirense': 216, 'Parana': 1, 'Flamengo': 1, 'Athletico-PR': 1, 'Internacional': 1}",-27.5855462,-48.5864658
+Mangueirão,66,33,17,16,06/04/2003,19/11/2014,"{'Paysandu': 65, 'Goias': 1}",-1.3811727,-48.4439318
+Moisés Lucarelli,179,82,57,40,06/04/2003,26/11/2017,{'Ponte Preta': 179},-22.9135401,-47.0511882
+Pinheirão,65,39,15,11,06/04/2003,10/09/2006,{'Parana': 65},32.7287418,-17.0191414
+Anacleto Campanella,86,43,24,19,06/04/2003,02/08/2009,"{'Sao Caetano': 85, 'Santo Andre': 1}",-23.6297858,-46.5598059
+Morumbi,413,229,70,114,06/04/2003,06/12/2023,"{'Sao Paulo': 386, 'Corinthians': 19, 'Palmeiras': 5, 'Atletico-MG': 1, 'Santos': 1, 'Flamengo': 1}",-23.5964988,-46.7178446
+São Januário,170,85,40,45,06/04/2003,18/09/2013,"{'Vasco': 163, 'Fluminense': 4, 'Botafogo-RJ': 3}",-15.0103622,13.3766075
+Presidente Vargas,34,13,11,10,13/04/2003,27/11/2011,"{'Fortaleza': 15, 'Ceara': 19}",-3.4065166,-44.0270508
+Independência,71,44,9,18,24/05/2003,08/12/2013,"{'Atletico-MG': 52, 'Cruzeiro': 19}",-27.8523717,-54.1909592
+Giulite Coutinho,5,1,3,1,19/07/2003,19/07/2007,"{'Fluminense': 3, 'Flamengo': 1, 'Botafogo-RJ': 1}",-22.7958764,-43.4196745
+Santa Cruz,3,1,0,2,16/08/2003,20/09/2009,"{'Sao Paulo': 1, 'Figueirense': 1, 'Santo Andre': 1}",28.467178,-16.2507843
+Willie Davids,6,1,4,1,24/08/2003,14/05/2006,{'Parana': 6},-23.4141502,-51.9382184
+Benedito Teixeira,3,3,0,0,30/08/2003,05/12/2004,"{'Sao Paulo': 1, 'Santos': 2}",-20.7973129,-49.3594156
+Estádio do Café,6,1,3,2,22/10/2003,18/11/2018,"{'Athletico-PR': 2, 'Parana': 2, 'Figueirense': 1, 'America-MG': 1}",-23.2825777,-51.1646091
+Ressacada,134,45,44,45,08/11/2003,09/11/2022,"{'Criciuma': 1, 'Avai': 132, 'Vasco': 1}",-26.9265661,-48.6773506
+Ipatingão,32,14,14,4,22/11/2003,31/08/2011,"{'Atletico-MG': 10, 'Cruzeiro': 3, 'Ipatinga': 19}",-19.4711433,-42.5417032
+Caio Martins,19,8,4,7,21/04/2004,12/12/2004,{'Botafogo-RJ': 19},-19.8588054,-44.3101355
+Parque Antártica,75,43,18,14,21/04/2004,22/05/2010,{'Palmeiras': 75},-23.5274971,-46.6785281
+Raulino de Oliveira,73,38,18,17,24/04/2004,08/06/2013,"{'Flamengo': 31, 'Fluminense': 34, 'Botafogo-RJ': 6, 'Vasco': 2}",-22.5082783,-44.0969542
+Prudentão,25,9,10,6,14/11/2004,24/11/2013,"{'Santos': 2, 'Palmeiras': 3, 'Barueri': 1, 'Gremio Prudente': 19}",-22.098568,-51.4150621
+Colosso da Lagoa,3,0,2,1,14/11/2004,11/12/2004,"{'Juventude': 1, 'Gremio': 2}",-27.6512664,-52.2649018
 Teixeirão,5,3,1,1,19/12/2004,01/12/2013,"{'Santos': 2, 'Corinthians': 1, 'Santo Andre': 1, 'Palmeiras': 1}",-8.740405,-63.8440794
-  Mané Garrincha,15,3,3,9,24/04/2005,06/10/2013,"{'Brasiliense': 3, 'Botafogo-RJ': 2, 'Fluminense': 1, 'Santos': 1, 'Flamengo': 6, 'Vasco': 2}",2.8258823,-60.7258689
-  Luso Brasileiro,34,16,8,10,15/05/2005,04/12/2005,"{'Flamengo': 16, 'Botafogo-RJ': 18}",-22.8988228,-43.5754145
-  Boca do Jacaré,18,5,8,5,15/05/2005,04/11/2012,"{'Brasiliense': 17, 'Atletico-GO': 1}",-15.8360896,-48.0806437
-  Arruda,21,7,9,5,16/04/2006,22/06/2008,"{'Santa Cruz': 19, 'Nautico': 2}",-8.0250816,-34.8913229
-  Kyocera Arena,56,30,11,15,16/04/2006,07/12/2008,{'Athletico-PR': 56},Unk,Unk
-  Centenário (*PF),3,3,0,0,13/08/2006,30/08/2006,{'Gremio': 3},Unk,Unk
-  Durival de Brito,26,13,8,5,20/09/2006,25/11/2007,{'Parana': 26},Unk,Unk
+Mané Garrincha,15,3,3,9,24/04/2005,06/10/2013,"{'Brasiliense': 3, 'Botafogo-RJ': 2, 'Fluminense': 1, 'Santos': 1, 'Flamengo': 6, 'Vasco': 2}",2.8258823,-60.7258689
+Luso Brasileiro,34,16,8,10,15/05/2005,04/12/2005,"{'Flamengo': 16, 'Botafogo-RJ': 18}",-22.8988228,-43.5754145
+Boca do Jacaré,18,5,8,5,15/05/2005,04/11/2012,"{'Brasiliense': 17, 'Atletico-GO': 1}",-15.8360896,-48.0806437
+Arruda,21,7,9,5,16/04/2006,22/06/2008,"{'Santa Cruz': 19, 'Nautico': 2}",-8.0250816,-34.8913229
+Kyocera Arena,56,30,11,15,16/04/2006,07/12/2008,{'Athletico-PR': 56},Unk,Unk
+Centenário (*PF),3,3,0,0,13/08/2006,30/08/2006,{'Gremio': 3},Unk,Unk
+Durival de Brito,26,13,8,5,20/09/2006,25/11/2007,{'Parana': 26},Unk,Unk
 Machadão,19,2,14,3,13/05/2007,24/11/2007,{'America-RN': 19},-22.5781925,-45.8255477
 Ilha do Retiro,76,36,20,20,13/05/2007,25/11/2012,{'Sport': 76},-8.063751,-34.9038034
 Aflitos,75,37,22,16,20/05/2007,02/06/2013,{'Nautico': 75},-8.0392007,-34.8967064
