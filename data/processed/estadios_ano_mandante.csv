@@ -1,0 +1,864 @@
+estadio,ano,mandante,partidas,vitorias_casa,vitorias_fora,empates
+ Brinco de Ouro,2003,Guarani,23,15,5,3
+ Arena da Baixada,2003,Athletico-PR,22,14,4,4
+ Maracanã,2003,Flamengo,23,14,4,5
+ Serra Dourada,2003,Goias,23,12,4,7
+ Beira Rio,2003,Internacional,23,13,3,7
+ Heriberto Hulse,2003,Criciuma,22,14,5,3
+ Alfredo Jaconi,2003,Juventude,23,9,4,10
+ Castelão,2003,Fortaleza,15,7,5,3
+ Mineirão,2003,Cruzeiro,23,17,1,5
+ Barradão,2003,Vitoria,23,11,7,5
+ Vila Belmiro,2003,Santos,23,15,2,6
+ Pacaembu,2003,Corinthians,20,11,6,3
+ Maracanã,2003,Fluminense,18,9,3,6
+ Mineirão,2003,Atletico-MG,13,6,4,3
+ Couto Pereira,2003,Coritiba,23,14,4,5
+ Olímpico,2003,Gremio,23,10,7,6
+ Fonte Nova,2003,Bahia,23,11,6,6
+ Orlando Scarpelli,2003,Figueirense,23,11,4,8
+ Mangueirão,2003,Paysandu,23,13,3,7
+ Moisés Lucarelli,2003,Ponte Preta,22,6,6,10
+ Pinheirão,2003,Parana,15,10,2,3
+ Anacleto Campanella,2003,Sao Caetano,23,15,3,5
+ Morumbi,2003,Sao Paulo,21,12,5,4
+ São Januário,2003,Vasco,17,10,2,5
+ Presidente Vargas,2003,Fortaleza,7,2,2,3
+  Independência,2003,Atletico-MG,8,5,1,2
+  Édson Passos,2003,Fluminense,1,1,0,0
+ Morumbi,2003,Corinthians,3,0,2,1
+ Maracanã,2003,Vasco,3,1,1,1
+  Giulite Coutinho,2003,Fluminense,3,0,2,1
+ Arena da Baixada,2003,Parana,1,0,0,1
+ Couto Pereira,2003,Parana,4,2,2,0
+  Santa Cruz,2003,Sao Paulo,1,0,0,1
+  Willie Davids,2003,Parana,1,1,0,0
+  Municipal Juiz de Fora,2003,Fluminense,1,1,0,0
+  Benedito Teixeira,2003,Sao Paulo,1,1,0,0
+ Vila Belmiro,2003,Ponte Preta,1,1,0,0
+  Plácido Castelo,2003,Fortaleza,1,1,0,0
+  Estádio do Café,2003,Athletico-PR,1,0,1,0
+  Vivaldo Lima,2003,Vasco,1,0,0,1
+ Orlando Scarpelli,2003,Parana,1,0,0,1
+  Batistão,2003,Vasco,1,0,1,0
+  Estádio do Café,2003,Parana,1,0,0,1
+  Ressacada,2003,Criciuma,1,0,1,0
+  Pedro Pedrossian,2003,Vasco,1,0,1,0
+  Ipatingão,2003,Atletico-MG,2,2,0,0
+  Caio Martins,2004,Botafogo-RJ,19,8,4,7
+ Orlando Scarpelli,2004,Figueirense,22,12,3,7
+ Anacleto Campanella,2004,Sao Caetano,23,15,5,3
+  Ipatingão,2004,Cruzeiro,1,1,0,0
+  Parque Antártica,2004,Palmeiras,20,11,4,5
+ Olímpico,2004,Gremio,19,6,6,7
+ Moisés Lucarelli,2004,Ponte Preta,23,11,8,4
+ Pinheirão,2004,Parana,23,12,9,2
+ Couto Pereira,2004,Coritiba,23,11,7,5
+ São Januário,2004,Vasco,19,7,7,5
+ Mangueirão,2004,Paysandu,23,12,4,7
+ Morumbi,2004,Sao Paulo,22,17,1,4
+  Raulino de Oliveira,2004,Flamengo,17,9,4,4
+ Serra Dourada,2004,Goias,23,16,2,5
+ Alfredo Jaconi,2004,Juventude,22,10,5,7
+ Beira Rio,2004,Internacional,23,15,4,4
+ Mineirão,2004,Atletico-MG,13,5,3,5
+ Maracanã,2004,Fluminense,16,7,3,6
+ Pacaembu,2004,Corinthians,20,12,3,5
+ Brinco de Ouro,2004,Guarani,23,8,5,10
+ Arena da Baixada,2004,Athletico-PR,22,15,2,5
+ Barradão,2004,Vitoria,23,12,6,5
+ Heriberto Hulse,2004,Criciuma,23,11,6,6
+ Vila Belmiro,2004,Santos,17,12,3,2
+  Independência,2004,Cruzeiro,2,1,0,1
+  Independência,2004,Atletico-MG,7,3,2,2
+ Morumbi,2004,Corinthians,2,0,1,1
+ Maracanã,2004,Flamengo,6,1,2,3
+ Mineirão,2004,Cruzeiro,20,10,8,2
+ Maracanã,2004,Vasco,4,2,1,1
+  Raulino de Oliveira,2004,Fluminense,7,5,1,1
+  Mj José Levi Sobrinho,2004,Corinthians,1,0,0,1
+ Pacaembu,2004,Santos,1,1,0,0
+ Maracanã,2004,Botafogo-RJ,3,0,0,3
+ Pacaembu,2004,Palmeiras,2,1,1,0
+  Wilson de Barros,2004,Santos,1,1,0,0
+ Morumbi,2004,Palmeiras,1,0,1,0
+ Pacaembu,2004,Sao Paulo,1,0,0,1
+  Mário Helênio,2004,Botafogo-RJ,1,0,0,1
+  Benedito Teixeira,2004,Santos,2,2,0,0
+  Bento Freitas,2004,Gremio,2,1,1,0
+ Serra Dourada,2004,Athletico-PR,1,1,0,0
+ Morumbi,2004,Atletico-MG,1,0,0,1
+  Prudentão,2004,Santos,1,1,0,0
+  Ipatingão,2004,Atletico-MG,2,1,0,1
+  Colosso da Lagoa,2004,Juventude,1,0,1,0
+  Santa Cruz,2004,Figueirense,1,1,0,0
+  Colosso da Lagoa,2004,Gremio,2,0,1,1
+Teixeirão,2004,Santos,1,1,0,0
+ Pinheirão,2005,Parana,16,10,3,3
+ Mineirão,2005,Atletico-MG,20,6,10,4
+  Bruno J Daniel,2005,Sao Caetano,1,0,0,1
+ Maracanã,2005,Flamengo,1,0,0,1
+ Beira Rio,2005,Internacional,21,14,4,3
+  Pres Vargas*(PF),2005,Fortaleza,2,1,1,0
+ Maracanã,2005,Fluminense,1,1,0,0
+ Pacaembu,2005,Corinthians,18,10,2,6
+ Arena da Baixada,2005,Athletico-PR,19,13,3,3
+  Mané Garrincha,2005,Brasiliense,3,1,1,1
+  A Campanella*(PF),2005,Santos,1,1,0,0
+ Serra Dourada,2005,Goias,21,14,4,3
+  R de Oliveira*(PF),2005,Vasco,1,0,0,1
+  Parque Antártica,2005,Palmeiras,18,13,3,2
+ Moisés Lucarelli,2005,Ponte Preta,21,11,7,3
+ Morumbi,2005,Sao Paulo,21,10,5,6
+ Mineirão,2005,Cruzeiro,21,11,6,4
+ Alfredo Jaconi,2005,Juventude,20,11,4,5
+ Orlando Scarpelli,2005,Figueirense,21,11,5,5
+  Luso Brasileiro*(PF),2005,Botafogo-RJ,1,1,0,0
+ Couto Pereira,2005,Coritiba,21,10,8,3
+ Mangueirão,2005,Paysandu,19,8,9,2
+ Vila Belmiro,2005,Santos,17,8,3,6
+  Raulino de Oliveira,2005,Fluminense,19,9,6,4
+ Anacleto Campanella,2005,Sao Caetano,20,7,8,5
+  G Coutinho*(PF),2005,Botafogo-RJ,1,1,0,0
+  Luso Brasileiro,2005,Flamengo,16,6,4,6
+  Boca do Jacaré,2005,Brasiliense,17,5,7,5
+ Presidente Vargas,2005,Fortaleza,1,1,0,0
+ São Januário,2005,Vasco,20,11,4,5
+  Raulino de Oliveira,2005,Flamengo,3,2,0,1
+  Luso Brasileiro,2005,Botafogo-RJ,18,10,4,4
+  Couto Pereira*(PF),2005,Athletico-PR,2,0,0,2
+  Wilson de Barros*(PF),2005,Corinthians,2,1,1,0
+ Castelão,2005,Fortaleza,18,10,4,4
+  Giulite Coutinho,2005,Flamengo,1,0,1,0
+ Morumbi,2005,Corinthians,1,1,0,0
+  Raulino de Oliveira,2005,Botafogo-RJ,1,0,1,0
+  Willie Davids,2005,Parana,4,0,3,1
+  Serejão,2005,Brasiliense,1,0,0,1
+  Pacaembu*(PF),2005,Palmeiras,1,0,0,1
+  Independência*(PF),2005,Atletico-MG,1,0,1,0
+  Curuzu*(PF),2005,Paysandu,2,2,0,0
+ Morumbi,2005,Palmeiras,1,0,0,1
+  Parque Antártica*(PF),2005,Santos,1,0,1,0
+  Olímpico Regional,2005,Parana,1,1,0,0
+ São Januário,2005,Fluminense,1,1,0,0
+ Pacaembu,2005,Palmeiras,1,1,0,0
+  Centenário*(PF),2005,Juventude,1,1,0,0
+  A.Campanella*(PF),2005,Santos,1,0,1,0
+  Pacaembu*(PF),2005,Santos,1,0,0,1
+ Alfredo Jaconi,2006,Juventude,19,11,2,6
+ São Januário,2006,Vasco,17,7,2,8
+ Morumbi,2006,Sao Paulo,19,14,1,4
+ Olímpico,2006,Gremio,16,10,3,3
+ Maracanã,2006,Botafogo-RJ,17,9,5,3
+ Anacleto Campanella,2006,Sao Caetano,19,6,7,6
+  Parque Antártica,2006,Palmeiras,17,8,5,4
+  Arruda,2006,Santa Cruz,19,6,9,4
+  Kyocera Arena,2006,Athletico-PR,18,9,6,3
+ Serra Dourada,2006,Goias,19,9,5,5
+ Pacaembu,2006,Corinthians,13,8,3,2
+ Maracanã,2006,Fluminense,17,6,5,6
+ Orlando Scarpelli,2006,Figueirense,19,9,3,7
+ Beira Rio,2006,Internacional,19,10,3,6
+  Papa J.Paulo II (*PF),2006,Santos,1,1,0,0
+ Moisés Lucarelli,2006,Ponte Preta,19,8,8,3
+ Maracanã,2006,Flamengo,17,9,3,5
+ Mineirão,2006,Cruzeiro,17,9,1,7
+ Pinheirão,2006,Parana,11,7,1,3
+ Castelão,2006,Fortaleza,12,2,7,3
+  Bruno J.Daniel (*PF),2006,Santos,1,1,0,0
+Teixeirão,2006,Corinthians,1,0,1,0
+ Vila Belmiro,2006,Santos,17,13,2,2
+  Willie Davids,2006,Parana,1,0,1,0
+ Morumbi,2006,Corinthians,5,1,3,1
+  Raulino de Oliveira,2006,Fluminense,2,1,1,0
+  Raulino de Oliveira,2006,Flamengo,2,1,1,0
+  Raulino de Oliveira,2006,Botafogo-RJ,2,1,0,1
+ Morumbi,2006,Palmeiras,1,1,0,0
+ Presidente Vargas,2006,Fortaleza,7,3,2,2
+  Centenário (*PF),2006,Gremio,3,3,0,0
+  Independência,2006,Cruzeiro,1,1,0,0
+  Durival de Brito,2006,Parana,7,5,1,1
+  Prudentão,2006,Palmeiras,1,1,0,0
+ Maracanã,2006,Vasco,2,1,0,1
+  Independência (*PF),2006,Cruzeiro,1,0,0,1
+  Durival de Brito (*PF),2006,Athletico-PR,1,0,1,0
+ Orlando Scarpelli,2007,Figueirense,19,10,4,5
+ Morumbi,2007,Sao Paulo,19,13,3,3
+ Maracanã,2007,Fluminense,15,7,2,6
+ Maracanã,2007,Flamengo,17,11,2,4
+ Beira Rio,2007,Internacional,19,12,5,2
+  Durival de Brito,2007,Parana,19,8,7,4
+ Mineirão,2007,Atletico-MG,19,9,5,5
+ Morumbi,2007,Corinthians,8,2,2,4
+Machadão,2007,America-RN,19,2,14,3
+Ilha do Retiro,2007,Sport,19,11,3,5
+ Alfredo Jaconi,2007,Juventude,19,7,4,8
+  Kyocera Arena,2007,Athletico-PR,19,11,2,6
+ Vila Belmiro,2007,Santos,19,11,4,4
+ Mineirão,2007,Cruzeiro,19,11,6,2
+ Serra Dourada,2007,Goias,19,9,4,6
+  Parque Antártica,2007,Palmeiras,18,9,6,3
+ Maracanã,2007,Botafogo-RJ,12,5,4,3
+ Olímpico,2007,Gremio,19,12,3,4
+Aflitos,2007,Nautico,19,9,6,4
+ São Januário,2007,Vasco,16,10,4,2
+ Maracanã,2007,Vasco,3,1,1,1
+Olímpico Engenhão,2007,Fluminense,1,0,1,0
+  Raulino de Oliveira,2007,Fluminense,1,0,0,1
+ Pacaembu,2007,Corinthians,11,4,4,3
+  Mané Garrincha,2007,Botafogo-RJ,1,1,0,0
+Parque do Sabiá,2007,Flamengo,1,0,1,0
+  Giulite Coutinho,2007,Botafogo-RJ,1,1,0,0
+Engenheiro Araripe,2007,Fluminense,1,1,0,0
+  Mário Helênio,2007,Flamengo,1,1,0,0
+  Mané Garrincha,2007,Fluminense,1,0,0,1
+Engenheiro Araripe,2007,Botafogo-RJ,1,1,0,0
+ Morumbi,2007,Palmeiras,1,1,0,0
+Engenhão,2007,Botafogo-RJ,4,2,1,1
+Aflitos,2008,Nautico,17,8,5,4
+ Morumbi,2008,Sao Paulo,19,14,1,4
+ Barradão,2008,Vitoria,19,11,3,5
+ Couto Pereira,2008,Coritiba,19,10,3,6
+ Beira Rio,2008,Internacional,19,13,2,4
+Engenhão,2008,Botafogo-RJ,18,9,5,4
+  Ipatingão,2008,Ipatinga,19,9,7,3
+Canindé,2008,Portuguesa,17,8,2,7
+ Mineirão,2008,Atletico-MG,19,9,2,8
+ Maracanã,2008,Flamengo,19,11,4,4
+ Mineirão,2008,Cruzeiro,19,15,2,2
+Ilha do Retiro,2008,Sport,19,11,2,6
+ São Januário,2008,Vasco,19,7,8,4
+ Olímpico,2008,Gremio,19,14,1,4
+  Kyocera Arena,2008,Athletico-PR,19,10,3,6
+ Maracanã,2008,Fluminense,19,7,6,6
+ Serra Dourada,2008,Goias,17,10,3,4
+ Orlando Scarpelli,2008,Figueirense,19,7,7,5
+Palestra Itália,2008,Palmeiras,18,13,3,2
+ Vila Belmiro,2008,Santos,19,9,4,6
+ Pacaembu,2008,Portuguesa,1,0,0,1
+  Arruda,2008,Nautico,2,1,0,1
+Antônio Guimarães,2008,Portuguesa,1,0,1,0
+ Pacaembu,2008,Palmeiras,1,1,0,0
+ Maracanã,2008,Botafogo-RJ,1,0,1,0
+Juscelino Kubitscheck,2008,Goias,1,1,0,0
+Bezerrão,2008,Goias,1,0,1,0
+Ilha do Retiro,2009,Sport,19,7,9,3
+Palestra Itália,2009,Palmeiras,18,11,1,6
+  Ressacada,2009,Avai,19,10,3,6
+ Pacaembu,2009,Corinthians,17,10,5,2
+ Maracanã,2009,Fluminense,19,8,4,7
+ Arena da Baixada,2009,Athletico-PR,18,8,4,6
+ Mineirão,2009,Cruzeiro,19,9,7,3
+ Olímpico,2009,Gremio,19,14,0,5
+Bruno José Daniel,2009,Santo Andre,16,8,5,3
+ Serra Dourada,2009,Goias,19,9,4,6
+ Couto Pereira,2009,Coritiba,18,10,4,4
+ Mineirão,2009,Atletico-MG,19,9,5,5
+ Maracanã,2009,Flamengo,18,11,2,5
+ Vila Belmiro,2009,Santos,17,7,5,5
+ Morumbi,2009,Sao Paulo,19,12,1,6
+Arena Barueri,2009,Barueri,18,10,2,6
+ Beira Rio,2009,Internacional,19,12,3,4
+Engenhão,2009,Botafogo-RJ,19,8,5,6
+ Barradão,2009,Vitoria,19,11,3,5
+Aflitos,2009,Nautico,18,7,7,4
+Engenhão,2009,Flamengo,1,1,0,0
+Eduardo José Farah,2009,Corinthians,1,0,1,0
+Teixeirão,2009,Santo Andre,1,0,0,1
+  Estádio do Café,2009,Athletico-PR,1,1,0,0
+ Anacleto Campanella,2009,Santo Andre,1,0,1,0
+  Olímpico Regional,2009,Coritiba,1,0,1,0
+Luiz Lacerda,2009,Nautico,1,1,0,0
+  Santa Cruz,2009,Santo Andre,1,0,0,1
+ Pacaembu,2009,Santos,2,1,0,1
+Eduardo José Farah,2009,Palmeiras,1,0,0,1
+ Brinco de Ouro,2009,Corinthians,1,0,1,0
+  Prudentão,2009,Barueri,1,0,0,1
+Engenhão,2010,Botafogo-RJ,19,8,1,10
+ Serra Dourada,2010,Atletico-GO,19,7,6,6
+  Parque Antártica,2010,Palmeiras,2,2,0,0
+ Maracanã,2010,Flamengo,10,3,1,6
+ Mineirão,2010,Atletico-MG,4,2,2,0
+ Beira Rio,2010,Internacional,19,9,3,7
+ Pacaembu,2010,Corinthians,19,15,2,2
+ Castelão,2010,Ceara,19,9,1,9
+ Brinco de Ouro,2010,Guarani,19,7,3,9
+  Ressacada,2010,Avai,19,9,5,5
+ Maracanã,2010,Fluminense,9,6,0,3
+  Prudentão,2010,Gremio Prudente,19,5,9,5
+ Barradão,2010,Vitoria,19,7,4,8
+ Vila Belmiro,2010,Santos,16,8,3,5
+ Morumbi,2010,Sao Paulo,16,8,5,3
+ Serra Dourada,2010,Goias,19,5,9,5
+ Olímpico,2010,Gremio,19,11,4,4
+ São Januário,2010,Vasco,15,9,1,5
+ Mineirão,2010,Cruzeiro,3,1,0,2
+ Arena da Baixada,2010,Athletico-PR,19,12,1,6
+Arena Barueri,2010,Palmeiras,6,3,1,2
+ Pacaembu,2010,Palmeiras,10,3,4,3
+Arena do Jacaré,2010,Atletico-MG,12,6,5,1
+Arena do Jacaré,2010,Cruzeiro,10,7,0,3
+  Ipatingão,2010,Atletico-MG,3,1,2,0
+  Ipatingão,2010,Cruzeiro,1,0,1,0
+ Maracanã,2010,Vasco,2,0,0,2
+Parque do Sabiá,2010,Cruzeiro,5,3,2,0
+ Pacaembu,2010,Santos,2,1,1,0
+Engenhão,2010,Fluminense,9,5,2,2
+  Raulino de Oliveira,2010,Flamengo,4,1,2,1
+Engenhão,2010,Flamengo,5,2,1,2
+Engenhão,2010,Vasco,2,0,0,2
+Arena Barueri,2010,Santos,1,1,0,0
+  Raulino de Oliveira,2010,Fluminense,1,1,0,0
+Arena Barueri,2010,Sao Paulo,3,2,1,0
+Fonte Luminosa,2010,Palmeiras,1,0,1,0
+Arena do Jacaré,2011,Atletico-MG,16,10,3,3
+Cláudio Moacyr,2011,Flamengo,4,2,1,1
+ Presidente Vargas,2011,Ceara,19,7,7,5
+ Vila Belmiro,2011,Santos,15,7,4,4
+Teixeirão,2011,Palmeiras,1,1,0,0
+ Olímpico,2011,Gremio,19,9,4,6
+ Couto Pereira,2011,Coritiba,19,13,2,4
+ Orlando Scarpelli,2011,Figueirense,19,8,5,6
+ São Januário,2011,Fluminense,1,0,1,0
+Arena do Jacaré,2011,America-MG,15,5,3,7
+ Beira Rio,2011,Internacional,19,10,3,6
+Engenhão,2011,Botafogo-RJ,16,11,2,3
+  Ressacada,2011,Avai,19,4,8,7
+ Morumbi,2011,Sao Paulo,17,8,4,5
+Fonte Luminosa,2011,Corinthians,1,1,0,0
+Pituaçu,2011,Bahia,19,7,5,7
+ Arena da Baixada,2011,Athletico-PR,19,8,3,8
+Arena do Jacaré,2011,Cruzeiro,15,6,4,5
+ São Januário,2011,Vasco,16,10,1,5
+ Serra Dourada,2011,Atletico-GO,19,9,7,3
+Canindé,2011,Palmeiras,10,5,2,3
+Engenhão,2011,Fluminense,17,11,6,0
+Engenhão,2011,Flamengo,15,7,2,6
+Morenão,2011,America-MG,1,0,1,0
+ Pacaembu,2011,Corinthians,18,12,4,2
+ Pacaembu,2011,Santos,4,3,0,1
+ Pacaembu,2011,Palmeiras,6,2,1,3
+ São Januário,2011,Botafogo-RJ,2,0,1,1
+  Raulino de Oliveira,2011,Fluminense,1,1,0,0
+  Ipatingão,2011,Atletico-MG,3,0,3,0
+Parque do Sabiá,2011,Cruzeiro,3,2,1,0
+Engenhão,2011,Vasco,3,1,0,2
+  Prudentão,2011,Palmeiras,1,1,0,0
+  Ipatingão,2011,Cruzeiro,1,0,1,0
+Parque do Sabiá,2011,America-MG,3,2,1,0
+Arena Barueri,2011,Sao Paulo,1,0,0,1
+Arena Barueri,2011,Palmeiras,1,0,1,0
+Romildo Ferreira,2011,Sao Paulo,1,1,0,0
+  Raulino de Oliveira,2011,Botafogo-RJ,1,0,0,1
+ Pacaembu,2012,Palmeiras,8,2,4,2
+Ilha do Retiro,2012,Sport,19,7,6,6
+ Orlando Scarpelli,2012,Figueirense,19,5,8,6
+ Pacaembu,2012,Corinthians,19,10,3,6
+ Beira Rio,2012,Internacional,19,9,6,4
+Engenhão,2012,Botafogo-RJ,19,9,6,4
+ Moisés Lucarelli,2012,Ponte Preta,19,9,3,7
+Parque do Sabiá,2012,Cruzeiro,1,0,0,1
+Pituaçu,2012,Bahia,19,5,5,9
+ São Januário,2012,Vasco,17,8,6,3
+ Serra Dourada,2012,Atletico-GO,17,4,10,3
+Engenhão,2012,Flamengo,14,6,2,6
+Canindé,2012,Portuguesa,19,7,4,8
+Aflitos,2012,Nautico,19,13,3,3
+ Morumbi,2012,Sao Paulo,18,14,2,2
+  Independência,2012,Atletico-MG,19,14,0,5
+ Couto Pereira,2012,Coritiba,19,11,6,2
+ Vila Belmiro,2012,Santos,17,8,1,8
+ Olímpico,2012,Gremio,19,13,2,4
+Engenhão,2012,Fluminense,14,7,2,5
+Melão,2012,Cruzeiro,3,2,0,1
+  Independência,2012,Cruzeiro,15,7,5,3
+Arena Barueri,2012,Palmeiras,7,3,2,2
+Engenhão,2012,Vasco,2,1,0,1
+ São Januário,2012,Fluminense,2,2,0,0
+ Pacaembu,2012,Santos,2,0,1,1
+  Raulino de Oliveira,2012,Flamengo,5,2,1,2
+  Raulino de Oliveira,2012,Fluminense,3,2,1,0
+Fonte Luminosa,2012,Palmeiras,3,1,1,1
+  Boca do Jacaré,2012,Atletico-GO,1,0,1,0
+Bezerrão,2012,Atletico-GO,1,1,0,0
+  Prudentão,2012,Palmeiras,1,0,1,0
+ Pacaembu,2012,Sao Paulo,1,1,0,0
+ Fonte Nova,2013,Vitoria,3,1,0,2
+ São Januário,2013,Vasco,7,2,3,2
+ Pacaembu,2013,Corinthians,14,5,2,7
+ Alfredo Jaconi,2013,Gremio,1,1,0,0
+ Heriberto Hulse,2013,Criciuma,19,8,7,4
+ Moisés Lucarelli,2013,Ponte Preta,19,6,9,4
+  Mané Garrincha,2013,Santos,1,0,0,1
+ Couto Pereira,2013,Coritiba,19,10,4,5
+  Independência,2013,Cruzeiro,1,1,0,0
+Moacyrzão,2013,Fluminense,4,3,1,0
+Vila Olímpica,2013,Athletico-PR,1,0,0,1
+  Raulino de Oliveira,2013,Botafogo-RJ,2,2,0,0
+ Morumbi,2013,Sao Paulo,17,7,7,3
+Juiz de Fora,2013,Flamengo,1,0,1,0
+Pituaçu,2013,Bahia,1,0,0,1
+Aflitos,2013,Nautico,2,0,1,1
+ Serra Dourada,2013,Goias,19,10,3,6
+Centenário (RS),2013,Internacional,11,6,2,3
+Arena Joinville,2013,Athletico-PR,3,2,0,1
+ Vila Belmiro,2013,Santos,14,6,2,6
+ Barradão,2013,Vitoria,15,9,2,4
+  Independência,2013,Atletico-MG,18,12,1,5
+Canindé,2013,Portuguesa,17,8,3,6
+  Raulino de Oliveira,2013,Vasco,2,1,0,1
+Arena do Grêmio,2013,Gremio,18,11,3,4
+ Orlando Scarpelli,2013,Flamengo,1,0,1,0
+  Batistão,2013,Bahia,1,1,0,0
+Arena do Jacaré,2013,Cruzeiro,2,1,0,1
+Arena do Jacaré,2013,Atletico-MG,1,1,0,0
+Jóia da Princesa,2013,Vitoria,1,1,0,0
+Vila Capanema,2013,Athletico-PR,15,11,1,3
+  Mané Garrincha,2013,Flamengo,6,1,1,4
+Arena Pernambuco,2013,Nautico,17,3,12,2
+ Fonte Nova,2013,Bahia,17,6,5,6
+Arena Pernambuco,2013,Botafogo-RJ,1,1,0,0
+ Mineirão,2013,Cruzeiro,15,12,2,1
+  Mané Garrincha,2013,Vasco,2,0,1,1
+ São Januário,2013,Botafogo-RJ,1,1,0,0
+ Maracanã,2013,Fluminense,15,5,4,6
+ Maracanã,2013,Flamengo,11,7,1,3
+ Maracanã,2013,Botafogo-RJ,14,7,3,4
+ Maracanã,2013,Vasco,4,2,1,1
+  Mané Garrincha,2013,Botafogo-RJ,1,0,0,1
+Estádio do Vale,2013,Internacional,8,1,3,4
+Morenão,2013,Portuguesa,1,1,0,0
+Romildão,2013,Corinthians,2,1,0,1
+Moacyrzão,2013,Vasco,3,2,1,0
+  Ressacada,2013,Vasco,1,1,0,0
+ Pacaembu,2013,Santos,2,2,0,0
+Novelli Júnior,2013,Corinthians,1,1,0,0
+Fonte Luminosa,2013,Corinthians,2,1,0,1
+Castelão (CE),2013,Portuguesa,1,0,0,1
+Novelli Júnior,2013,Sao Paulo,2,1,1,0
+Parque do Sabiá,2013,Cruzeiro,1,0,0,1
+  Prudentão,2013,Santos,1,1,0,0
+Teixeirão,2013,Santos,1,1,0,0
+ Maracanã,2014,Fluminense,16,10,2,4
+Estádio José Pinheiro Borda,2014,Internacional,17,14,3,0
+Arena Condá,2014,Chapecoense,19,8,4,7
+Itaipava Arena Fonte Nova,2014,Bahia,16,5,7,4
+ Morumbi,2014,Sao Paulo,17,11,2,4
+ Orlando Scarpelli,2014,Athletico-PR,1,1,0,0
+Estádio Municipal Parque do Sabiá,2014,Atletico-MG,1,0,0,1
+Estádio Nacional de Brasília,2014,Flamengo,1,0,0,1
+Estádio Urbano Caldeira,2014,Santos,13,7,4,2
+Estádio Heriberto Hülse,2014,Criciuma,19,7,7,5
+ Couto Pereira,2014,Coritiba,18,9,4,5
+Estádio Municipal Paulo Machado de Carvalho,2014,Palmeiras,15,6,6,3
+Estádio de Pituaçu,2014,Vitoria,2,0,1,1
+Estádio Municipal Parque do Sabiá,2014,Cruzeiro,2,1,0,1
+ Maracanã,2014,Botafogo-RJ,9,4,3,2
+Estádio Municipal Paulo Machado de Carvalho,2014,Corinthians,1,1,0,0
+Adelmar da Costa Carvalho,2014,Sport,12,7,3,2
+Arena Barueri,2014,Figueirense,1,0,1,0
+Arena do Grêmio,2014,Gremio,17,11,3,3
+Estádio Municipal Juscelino Kubitschek,2014,Goias,1,1,0,0
+Estádio Nacional de Brasília,2014,Athletico-PR,1,0,1,0
+Estádio Municipal Paulo Machado de Carvalho,2014,Sao Paulo,1,0,0,1
+ Maracanã,2014,Flamengo,13,9,3,1
+Estádio Raimundo Sampaio,2014,Atletico-MG,16,11,2,3
+Arena Barueri,2014,Sao Paulo,1,0,0,1
+  Estádio do Café,2014,Figueirense,1,0,1,0
+Helenão,2014,Goias,1,1,0,0
+ Mineirão,2014,Cruzeiro,17,14,2,1
+Neo Química Arena,2014,Corinthians,15,9,1,5
+Estádio Willie Davids,2014,Athletico-PR,2,1,0,1
+Arena Pantanal,2014,Santos,2,0,2,0
+Moacyrzão,2014,Flamengo,2,0,1,1
+ Alfredo Jaconi,2014,Gremio,2,1,0,1
+Estádio Dr. Oswaldo Teixeira Duarte,2014,Corinthians,2,1,0,1
+Estádio do Governo do Estado de Goiás (Serra Dourada),2014,Goias,15,7,4,4
+Estádio Doutor Adhemar de Barros,2014,Palmeiras,1,1,0,0
+Estádio Alberto Oliveira,2014,Vitoria,2,0,2,0
+Arena Barueri,2014,Bahia,1,0,1,0
+ Orlando Scarpelli,2014,Figueirense,17,7,5,5
+ Morumbi,2014,Santos,1,0,0,1
+Estádio Francisco Stédile (Centenário),2014,Internacional,2,1,1,0
+Moacyrzão,2014,Botafogo-RJ,1,0,0,1
+Estádio Ipatingão,2014,Atletico-MG,2,1,0,1
+Estádio Paulo Constantino,2014,Palmeiras,1,0,1,0
+Estádio Municipal Parque do Sabiá,2014,Athletico-PR,1,0,0,1
+ Morumbi,2014,Flamengo,1,0,0,1
+Estádio Alberto Oliveira,2014,Bahia,2,1,1,0
+Vila Capanema,2014,Coritiba,1,1,0,0
+Primeiro de Maio São Bernardo do Campo,2014,Santos,1,1,0,0
+Moacyrzão,2014,Fluminense,1,0,0,1
+Estádio Municipal General Raulino de Oliveira,2014,Botafogo-RJ,3,1,1,1
+ Barradão,2014,Vitoria,14,5,5,4
+Estádio Joaquim Américo Guimarães,2014,Athletico-PR,14,8,3,3
+Estádio Municipal General Raulino de Oliveira,2014,Fluminense,1,1,0,0
+Estádio Nacional de Brasília,2014,Botafogo-RJ,3,1,1,1
+Arena de Pernambuco,2014,Sport,7,3,0,4
+Estádio Municipal Paulo Machado de Carvalho,2014,Santos,2,2,0,0
+Arena Pantanal,2014,Goias,1,1,0,0
+Itaipava Arena Fonte Nova,2014,Vitoria,1,1,0,0
+Estádio Nacional de Brasília,2014,Fluminense,1,0,0,1
+Arena da Amazônia,2014,Botafogo-RJ,2,2,0,0
+Arena Pantanal,2014,Corinthians,1,1,0,0
+Estádio Vasco da Gama,2014,Botafogo-RJ,1,0,1,0
+ Mangueirão,2014,Goias,1,0,1,0
+Allianz Parque,2014,Palmeiras,2,0,1,1
+Castelão de São Luís,2014,Flamengo,1,0,0,1
+Arena da Amazônia,2014,Flamengo,1,1,0,0
+Arena Condá,2015,Chapecoense,19,9,5,5
+Allianz Parque,2015,Palmeiras,17,8,5,4
+ Maracanã,2015,Fluminense,18,9,6,3
+Arena do Grêmio,2015,Gremio,19,14,2,3
+Arena Pantanal,2015,Cruzeiro,1,0,1,0
+Adelmar da Costa Carvalho,2015,Sport,11,8,0,3
+Estádio Joaquim Américo Guimarães,2015,Athletico-PR,18,9,3,6
+ Morumbi,2015,Sao Paulo,19,12,1,6
+Estádio Vasco da Gama,2015,Vasco,8,2,3,3
+  Ressacada,2015,Avai,19,8,6,5
+Estádio do Governo do Estado de Goiás (Serra Dourada),2015,Goias,19,7,8,4
+ Couto Pereira,2015,Coritiba,19,6,5,8
+Estádio Doutor Adhemar de Barros,2015,Corinthians,1,1,0,0
+ Orlando Scarpelli,2015,Figueirense,19,7,6,6
+Estádio Nacional de Brasília,2015,Atletico-MG,1,1,0,0
+ Maracanã,2015,Flamengo,16,7,7,2
+Estádio Urbano Caldeira,2015,Santos,19,15,1,3
+Estádio José Pinheiro Borda,2015,Internacional,19,14,2,3
+Arena Joinville,2015,Joinville,19,6,6,7
+ Moisés Lucarelli,2015,Ponte Preta,18,9,5,4
+ Mineirão,2015,Cruzeiro,18,10,2,6
+Estádio Raimundo Sampaio,2015,Atletico-MG,13,8,3,2
+Neo Química Arena,2015,Corinthians,18,15,1,2
+Arena de Pernambuco,2015,Sport,8,5,1,2
+ Mineirão,2015,Atletico-MG,5,4,1,0
+Arena Pantanal,2015,Vasco,1,1,0,0
+Arena Pantanal,2015,Ponte Preta,1,0,1,0
+Estádio Nacional de Brasília,2015,Vasco,1,0,1,0
+ Maracanã,2015,Vasco,8,2,3,3
+Arena das Dunas,2015,Flamengo,1,1,0,0
+ Couto Pereira,2015,Athletico-PR,1,0,1,0
+Estádio Nacional de Brasília,2015,Flamengo,2,0,1,1
+Estádio Municipal Paulo Machado de Carvalho,2015,Palmeiras,2,1,1,0
+Estádio Nilton Santos,2015,Vasco,1,0,1,0
+Kléber Andrade,2015,Fluminense,1,1,0,0
+Estádio Municipal General Raulino de Oliveira,2016,Flamengo,3,2,0,1
+Allianz Parque,2016,Palmeiras,17,13,1,3
+Estádio Raimundo Sampaio,2016,Atletico-MG,15,10,3,2
+ Couto Pereira,2016,Coritiba,18,9,2,7
+Estádio do Arruda,2016,Santa Cruz,17,7,9,1
+Estádio Municipal General Raulino de Oliveira,2016,Botafogo-RJ,3,1,1,1
+Estádio Raimundo Sampaio,2016,America-MG,17,7,7,3
+ Orlando Scarpelli,2016,Figueirense,19,7,3,9
+Neo Química Arena,2016,Corinthians,18,10,2,6
+Estádio José Pinheiro Borda,2016,Internacional,19,9,5,5
+ Moisés Lucarelli,2016,Ponte Preta,19,13,4,2
+Estádio Municipal General Raulino de Oliveira,2016,Fluminense,5,1,1,3
+ Mineirão,2016,Cruzeiro,17,6,5,6
+Estádio Urbano Caldeira,2016,Santos,15,12,2,1
+Estádio Joaquim Américo Guimarães,2016,Athletico-PR,18,14,1,3
+ Barradão,2016,Vitoria,15,6,6,3
+Arena Condá,2016,Chapecoense,18,8,4,6
+ Morumbi,2016,Sao Paulo,17,8,4,5
+Arena do Grêmio,2016,Gremio,19,11,4,4
+Adelmar da Costa Carvalho,2016,Sport,17,9,4,4
+Helenão,2016,Botafogo-RJ,4,3,0,1
+Itaipava Arena Fonte Nova,2016,Vitoria,3,1,1,1
+Vila Capanema,2016,Coritiba,1,0,1,0
+Estádio Nacional de Brasília,2016,Botafogo-RJ,1,0,1,0
+Estádio Municipal Paulo Machado de Carvalho,2016,Palmeiras,1,1,0,0
+Estádio Municipal Paulo Machado de Carvalho,2016,Santos,3,3,0,0
+Estádio Nacional de Brasília,2016,Flamengo,4,2,1,1
+Estádio Nacional de Brasília,2016,Fluminense,2,1,1,0
+Kléber Andrade,2016,Fluminense,2,1,1,0
+ Mineirão,2016,Atletico-MG,4,3,0,1
+Arena das Dunas,2016,Flamengo,1,0,1,0
+Kléber Andrade,2016,Flamengo,5,5,0,0
+Luso-Brasileiro,2016,Botafogo-RJ,11,6,2,3
+Estádio Giulite Coutinho,2016,Fluminense,8,5,2,1
+Estádio Alberto Oliveira,2016,Vitoria,1,1,0,0
+Arena Pantanal,2016,Santos,1,0,0,1
+Estádio Raimundo Sampaio,2016,Cruzeiro,2,1,0,1
+Estádio Municipal Paulo Machado de Carvalho,2016,Corinthians,1,0,0,1
+Arena de Pernambuco,2016,Sport,2,1,0,1
+Arena de Pernambuco,2016,Santa Cruz,1,0,0,1
+Estádio Municipal Paulo Machado de Carvalho,2016,Flamengo,2,2,0,0
+  Estádio do Café,2016,America-MG,1,0,1,0
+Arena Pantanal,2016,Santa Cruz,1,0,1,0
+Estádio Doutor Adhemar de Barros,2016,Palmeiras,1,0,0,1
+Estádio Municipal Paulo Machado de Carvalho,2016,Sao Paulo,2,1,1,0
+Vila Capanema,2016,Athletico-PR,1,1,0,0
+ Maracanã,2016,Flamengo,4,1,0,3
+ Maracanã,2016,Fluminense,2,0,0,2
+ Mineirão,2016,America-MG,1,0,1,0
+ Maracanã,2017,Flamengo,3,0,0,3
+Neo Química Arena,2017,Corinthians,19,12,2,5
+ Maracanã,2017,Fluminense,17,7,6,4
+ Mineirão,2017,Cruzeiro,19,9,3,7
+ Moisés Lucarelli,2017,Ponte Preta,19,9,7,3
+  Ressacada,2017,Avai,19,5,5,9
+Itaipava Arena Fonte Nova,2017,Bahia,18,10,5,3
+Allianz Parque,2017,Palmeiras,15,9,4,2
+Arena do Grêmio,2017,Gremio,18,10,5,3
+ Couto Pereira,2017,Coritiba,18,7,7,4
+Estádio Urbano Caldeira,2017,Santos,13,9,3,1
+Estádio do Governo do Estado de Goiás (Serra Dourada),2017,Atletico-GO,4,0,4,0
+Arena Condá,2017,Chapecoense,19,9,7,3
+Estádio Vasco da Gama,2017,Vasco,12,7,2,3
+Itaipava Arena Fonte Nova,2017,Vitoria,2,0,2,0
+Estádio Joaquim Américo Guimarães,2017,Athletico-PR,19,8,6,5
+Estádio Raimundo Sampaio,2017,Atletico-MG,18,7,7,4
+Estádio Nilton Santos,2017,Botafogo-RJ,19,9,7,3
+Adelmar da Costa Carvalho,2017,Sport,17,6,4,7
+ Morumbi,2017,Sao Paulo,14,6,2,6
+Estádio Municipal General Raulino de Oliveira,2017,Flamengo,1,0,0,1
+Estádio Municipal Paulo Machado de Carvalho,2017,Santos,6,3,0,3
+Estádio Olímpico Pedro Ludovico Teixeira,2017,Atletico-GO,15,4,6,5
+ Barradão,2017,Vitoria,17,3,9,5
+Luso-Brasileiro,2017,Flamengo,15,10,3,2
+Estádio Municipal Paulo Machado de Carvalho,2017,Palmeiras,4,3,0,1
+Vila Capanema,2017,Coritiba,1,0,0,1
+Estádio Giulite Coutinho,2017,Fluminense,2,0,0,2
+Arena de Pernambuco,2017,Sport,2,1,1,0
+Estádio Nilton Santos,2017,Vasco,1,0,0,1
+Estádio de Pituaçu,2017,Bahia,1,0,0,1
+Estádio Municipal General Raulino de Oliveira,2017,Vasco,3,0,2,1
+ Mineirão,2017,Atletico-MG,1,0,1,0
+ Maracanã,2017,Vasco,3,1,0,2
+Estádio Municipal Paulo Machado de Carvalho,2017,Sao Paulo,5,3,0,2
+ Alfredo Jaconi,2017,Gremio,1,0,0,1
+ Mineirão,2018,Cruzeiro,18,10,4,4
+ Barradão,2018,Vitoria,19,7,7,5
+Estádio Municipal Paulo Machado de Carvalho,2018,Santos,7,2,2,3
+Estádio Raimundo Sampaio,2018,America-MG,19,8,4,7
+Estádio Vasco da Gama,2018,Vasco,16,9,3,4
+Estádio José Pinheiro Borda,2018,Internacional,19,14,1,4
+Neo Química Arena,2018,Corinthians,19,9,2,8
+Estádio Joaquim Américo Guimarães,2018,Athletico-PR,19,14,3,2
+ Morumbi,2018,Sao Paulo,19,10,1,8
+Estádio Nilton Santos,2018,Botafogo-RJ,19,10,2,7
+Itaipava Arena Fonte Nova,2018,Bahia,17,9,2,6
+ Maracanã,2018,Flamengo,19,14,3,2
+Vila Capanema,2018,Parana,18,3,6,9
+Arena Castelão,2018,Ceara,14,5,3,6
+Estádio Raimundo Sampaio,2018,Atletico-MG,19,12,3,4
+ Maracanã,2018,Fluminense,16,8,3,5
+Arena Condá,2018,Chapecoense,19,10,4,5
+Estádio Municipal Paulo Machado de Carvalho,2018,Palmeiras,4,4,0,0
+Arena do Grêmio,2018,Gremio,19,12,2,5
+Adelmar da Costa Carvalho,2018,Sport,18,8,5,5
+Allianz Parque,2018,Palmeiras,15,12,1,2
+Estádio Urbano Caldeira,2018,Santos,12,7,2,3
+Arena de Pernambuco,2018,Sport,1,0,0,1
+Estádio Nacional de Brasília,2018,Fluminense,1,0,1,0
+Estádio Presidente Vargas,2018,Ceara,5,2,1,2
+Estádio Nacional de Brasília,2018,Vasco,2,0,1,1
+ Maracanã,2018,Vasco,1,0,1,0
+Estádio Nilton Santos,2018,Fluminense,2,1,1,0
+Estádio de Pituaçu,2018,Bahia,2,1,0,1
+Estádio Raimundo Sampaio,2018,Cruzeiro,1,1,0,0
+  Estádio do Café,2018,Parana,1,0,0,1
+ Morumbi,2019,Sao Paulo,17,9,3,5
+Estádio Raimundo Sampaio,2019,Atletico-MG,15,8,5,2
+Arena Condá,2019,Chapecoense,19,4,10,5
+ Maracanã,2019,Flamengo,18,16,0,2
+Arena do Grêmio,2019,Gremio,17,10,4,3
+Arena Castelão,2019,Ceara,19,8,5,6
+Itaipava Arena Fonte Nova,2019,Bahia,16,6,2,8
+Estádio Joaquim Américo Guimarães,2019,Athletico-PR,19,12,4,3
+Allianz Parque,2019,Palmeiras,14,9,2,3
+ Maracanã,2019,Fluminense,18,5,6,7
+Estádio Rei Pelé,2019,CSA,18,6,7,5
+Estádio José Pinheiro Borda,2019,Internacional,19,11,2,6
+Neo Química Arena,2019,Corinthians,19,10,2,7
+ Mineirão,2019,Cruzeiro,17,5,4,8
+  Ressacada,2019,Avai,18,1,8,9
+Estádio do Governo do Estado de Goiás (Serra Dourada),2019,Goias,19,11,5,3
+Estádio Vasco da Gama,2019,Vasco,15,7,5,3
+Arena Castelão,2019,Fortaleza,19,11,6,2
+Estádio Urbano Caldeira,2019,Santos,18,13,1,4
+Estádio Nilton Santos,2019,Botafogo-RJ,18,9,7,2
+Arena da Amazônia,2019,Vasco,1,0,0,1
+ Mineirão,2019,Atletico-MG,4,2,2,0
+Estádio Municipal Paulo Machado de Carvalho,2019,Santos,1,1,0,0
+Estádio Municipal Paulo Machado de Carvalho,2019,Palmeiras,4,3,0,1
+Estádio Nacional de Brasília,2019,Botafogo-RJ,1,0,1,0
+Estádio Raimundo Sampaio,2019,Cruzeiro,2,0,2,0
+Estádio Nilton Santos,2019,Flamengo,1,1,0,0
+Estádio de Pituaçu,2019,Bahia,3,1,2,0
+Estádio Municipal Paulo Machado de Carvalho,2019,Sao Paulo,2,1,0,1
+Estádio Francisco Stédile (Centenário),2019,Gremio,2,2,0,0
+Estádio Nacional de Brasília,2019,CSA,1,0,1,0
+Kléber Andrade,2019,Vasco,1,0,0,1
+Estádio Nacional de Brasília,2019,Vasco,1,0,1,0
+Estádio Nacional de Brasília,2019,Avai,1,0,1,0
+Estádio Nacional de Brasília,2019,Fluminense,1,1,0,0
+Estádio Brinco de Ouro,2019,Palmeiras,1,1,0,0
+ Maracanã,2019,Vasco,1,0,0,1
+Adelmar da Costa Carvalho,2020,Sport,13,6,6,1
+ Couto Pereira,2020,Coritiba,13,3,7,3
+Arena Castelão,2020,Fortaleza,14,5,4,5
+ Maracanã,2020,Flamengo,13,7,2,4
+Estádio Urbano Caldeira,2020,Santos,14,6,2,6
+Arena do Grêmio,2020,Gremio,13,8,1,4
+Estádio Joaquim Américo Guimarães,2020,Athletico-PR,14,6,5,3
+Nabizão,2020,Bragantino,13,6,4,3
+ Mineirão,2020,Atletico-MG,14,10,1,3
+Estádio de Pituaçu,2020,Bahia,9,4,4,1
+Estádio Olímpico Pedro Ludovico Teixeira,2020,Atletico-GO,10,2,3,5
+Arena Castelão,2020,Ceara,13,5,3,5
+ Maracanã,2020,Fluminense,13,6,3,4
+ Morumbi,2020,Sao Paulo,13,9,0,4
+Estádio José Pinheiro Borda,2020,Internacional,13,8,1,4
+Estádio Vasco da Gama,2020,Vasco,13,4,5,4
+Allianz Parque,2020,Palmeiras,12,6,2,4
+Estádio da Serrinha,2020,Goias,14,4,6,4
+Neo Química Arena,2020,Corinthians,13,5,3,5
+Estádio Nilton Santos,2020,Botafogo-RJ,14,2,7,5
+ Morumbi,2020,Palmeiras,1,1,0,0
+Estádio Nilton Santos,2020,Fluminense,1,1,0,0
+Itaipava Arena Fonte Nova,2020,Bahia,5,2,3,0
+Estádio Antônio Accioly,2020,Atletico-GO,3,1,1,1
+Arena do Grêmio,2021,Gremio,25,10,7,8
+Estádio Nilton Santos,2021,Botafogo-RJ,5,1,4,0
+Adelmar da Costa Carvalho,2021,Sport,17,3,8,6
+ Couto Pereira,2021,Coritiba,6,1,2,3
+ Maracanã,2021,Flamengo,22,15,6,1
+Nabizão,2021,Bragantino,25,11,3,11
+Arena Castelão,2021,Ceara,25,12,6,7
+Estádio Antônio Accioly,2021,Atletico-GO,24,9,2,13
+Arena Castelão,2021,Fortaleza,24,14,5,5
+ Morumbi,2021,Sao Paulo,25,8,5,12
+Estádio José Pinheiro Borda,2021,Internacional,25,12,6,7
+Estádio Vasco da Gama,2021,Vasco,6,3,2,1
+Neo Química Arena,2021,Corinthians,25,13,5,7
+Allianz Parque,2021,Palmeiras,24,12,5,7
+Estádio Nilton Santos,2021,Fluminense,2,2,0,0
+Estádio Joaquim Américo Guimarães,2021,Athletico-PR,24,11,6,7
+Estádio Urbano Caldeira,2021,Santos,24,12,5,7
+ Mineirão,2021,Atletico-MG,24,21,1,2
+Estádio da Serrinha,2021,Goias,5,2,2,1
+Itaipava Arena Fonte Nova,2021,Bahia,15,7,3,5
+Estádio Nacional de Brasília,2021,Flamengo,1,1,0,0
+Estádio Vasco da Gama,2021,Fluminense,5,2,0,3
+ Maracanã,2021,Fluminense,16,11,2,3
+Arena Pantanal,2021,Cuiaba,19,7,6,6
+Estádio de Pituaçu,2021,Bahia,9,4,4,1
+Arena Condá,2021,Chapecoense,19,0,13,6
+Estádio Raimundo Sampaio,2021,America-MG,19,9,4,6
+ Alfredo Jaconi,2021,Juventude,19,9,4,6
+Estádio Municipal General Raulino de Oliveira,2021,Fluminense,1,0,1,0
+Neo Química Arena,2021,Flamengo,1,0,1,0
+Estádio do Governo do Estado de Goiás (Serra Dourada),2021,Atletico-GO,1,0,1,0
+Estádio Municipal General Raulino de Oliveira,2021,Flamengo,1,1,0,0
+Arena de Pernambuco,2021,Sport,8,4,2,2
+Arena Barueri,2021,Palmeiras,1,1,0,0
+ Maracanã,2022,Fluminense,17,10,4,3
+Estádio Antônio Accioly,2022,Atletico-GO,17,5,7,5
+Allianz Parque,2022,Palmeiras,18,12,2,4
+ Couto Pereira,2022,Coritiba,19,11,4,4
+Estádio Nilton Santos,2022,Botafogo-RJ,19,6,9,4
+ Mineirão,2022,Atletico-MG,16,7,5,4
+Arena Castelão,2022,Fortaleza,19,7,4,8
+  Ressacada,2022,Avai,19,7,8,4
+ Morumbi,2022,Sao Paulo,19,8,5,6
+ Alfredo Jaconi,2022,Juventude,19,2,8,9
+Estádio da Serrinha,2022,Goias,19,6,5,8
+Neo Química Arena,2022,Corinthians,19,12,3,4
+Estádio Raimundo Sampaio,2022,America-MG,19,9,6,4
+Arena Pantanal,2022,Cuiaba,19,6,5,8
+Estádio Urbano Caldeira,2022,Santos,17,8,6,3
+ Maracanã,2022,Flamengo,16,9,4,3
+Estádio Joaquim Américo Guimarães,2022,Athletico-PR,19,11,2,6
+Estádio José Pinheiro Borda,2022,Internacional,19,13,1,5
+Nabizão,2022,Bragantino,19,8,6,5
+Arena Castelão,2022,Ceara,19,4,7,8
+Arena Barueri,2022,Palmeiras,1,1,0,0
+Estádio Raimundo Sampaio,2022,Atletico-MG,3,1,1,1
+Estádio Nacional de Brasília,2022,Flamengo,3,2,1,0
+Estádio Municipal General Raulino de Oliveira,2022,Fluminense,2,2,0,0
+Arena Barueri,2022,Santos,2,0,0,2
+Estádio do Governo do Estado de Goiás (Serra Dourada),2022,Atletico-GO,2,1,1,0
+Allianz Parque,2023,Palmeiras,16,12,2,2
+Estádio Raimundo Sampaio,2023,America-MG,16,5,11,0
+Nabizão,2023,Bragantino,19,11,3,5
+Ligga Arena,2023,Athletico-PR,19,10,1,8
+Arena Castelão,2023,Fortaleza,18,8,4,6
+Estádio Nilton Santos,2023,Botafogo-RJ,18,11,3,4
+ Mineirão,2023,Atletico-MG,8,3,2,3
+ Maracanã,2023,Flamengo,17,10,2,5
+Neo Química Arena,2023,Corinthians,19,6,3,10
+ Alfredo Jaconi,2023,Gremio,1,1,0,0
+ Maracanã,2023,Fluminense,16,11,2,3
+Arena Pantanal,2023,Cuiaba,19,6,7,6
+ Morumbi,2023,Sao Paulo,18,12,3,3
+Estádio Raimundo Sampaio,2023,Cruzeiro,5,3,1,1
+Estádio Beira-Rio,2023,Internacional,19,9,5,5
+Estádio Urbano Caldeira,2023,Santos,19,6,6,7
+ Maracanã,2023,Vasco,3,1,1,1
+ Couto Pereira,2023,Coritiba,18,3,11,4
+Estádio Hailé Pinheiro - Serrinha,2023,Goias,19,5,7,7
+Itaipava Arena Fonte Nova,2023,Bahia,19,8,6,5
+Estádio Raimundo Sampaio,2023,Atletico-MG,2,1,1,0
+Estádio São Januário,2023,Vasco,14,6,7,1
+Arena do Grêmio,2023,Gremio,18,13,3,2
+ Mineirão,2023,Cruzeiro,12,1,4,7
+Estádio Joaquim Henrique Nogueira-Arena do jacaré,2023,Cruzeiro,1,0,1,0
+Estádio Municipal Parque do Sabiá,2023,Cruzeiro,1,0,1,0
+ Mineirão,2023,America-MG,1,0,0,1
+Estádio Municipal General Raulino de Oliveira,2023,Fluminense,3,2,0,1
+Luso-Brasileiro,2023,Vasco,1,1,0,0
+Arena MRV,2023,Atletico-MG,9,7,2,0
+Estádio Presidente Vargas,2023,Fortaleza,1,1,0,0
+Kléber Andrade,2023,Flamengo,1,0,1,0
+Estádio Nilton Santos,2023,Vasco,1,1,0,0
+Arena Barueri,2023,Palmeiras,3,2,1,0
+Arena BRB Mané Garrincha,2023,Flamengo,1,0,1,0
+Estádio Municipal Parque do Sabiá,2023,America-MG,2,0,1,1
+Estádio Urbano Caldeira,2023,Sao Paulo,1,1,0,0
+Estádio São Januário,2023,Botafogo-RJ,1,0,1,0
+Vila Capanema,2023,Coritiba,1,1,0,0
+Estádio Beira-Rio,2024,Internacional,16,10,2,4
+Estádio Heriberto Hülse,2024,Criciuma,19,5,6,8
+ Maracanã,2024,Fluminense,18,7,4,7
+MorumBIS,2024,Sao Paulo,17,10,4,3
+Ligga Arena,2024,Athletico-PR,19,7,8,4
+Estádio São Januário,2024,Vasco,16,9,2,5
+Estádio Serra Dourada,2024,Atletico-GO,1,0,1,0
+Neo Química Arena,2024,Corinthians,19,10,1,8
+ Mineirão,2024,Cruzeiro,16,9,2,5
+ Barradão,2024,Vitoria,19,8,8,3
+Arena Fonte Nova,2024,Bahia,19,11,5,3
+Arena do Grêmio,2024,Gremio,10,6,3,1
+Nabizão,2024,Bragantino,19,8,4,7
+Arena MRV,2024,Atletico-MG,16,7,3,6
+Arena Castelão,2024,Fortaleza,18,13,0,5
+ Alfredo Jaconi,2024,Juventude,17,8,5,4
+Arena Barueri,2024,Palmeiras,2,0,2,0
+ Maracanã,2024,Flamengo,18,10,3,5
+Estádio Nilton Santos,2024,Botafogo-RJ,17,12,2,3
+Allianz Parque,2024,Palmeiras,15,10,3,2
+Estádio Antônio Accioly - Atlético Goianiense,2024,Atletico-GO,18,5,8,5
+Arena Pantanal,2024,Cuiaba,19,3,11,5
+Kléber Andrade,2024,Fluminense,1,0,0,1
+ Couto Pereira,2024,Gremio,2,0,2,0
+ Maracanã,2024,Vasco,1,0,1,0
+Estádio Presidente Vargas,2024,Fortaleza,1,1,0,0
+Estádio Heriberto Hülse,2024,Internacional,2,0,1,1
+Kléber Andrade,2024,Gremio,1,0,1,0
+ Orlando Scarpelli,2024,Internacional,1,1,0,0
+Estádio Francisco Stédile | Centenário,2024,Gremio,4,2,1,1
+Estádio Independência,2024,Cruzeiro,2,1,1,0
+Arena BRB Mané Garrincha,2024,Juventude,2,0,0,2
+Arena BRB Mané Garrincha,2024,Flamengo,1,1,0,0
+Arena Condá,2024,Gremio,1,1,0,0
+Kléber Andrade,2024,Cruzeiro,1,0,1,0
+Estádio Nilton Santos,2024,Vasco,1,1,0,0
+ Alfredo Jaconi,2024,Gremio,1,0,1,0
+Estádio Brinco de Ouro,2024,Palmeiras,2,2,0,0
+ Mineirão,2024,Atletico-MG,1,0,1,0
+Arena BRB Mané Garrincha,2024,Vasco,1,0,1,0
+Arena BRB Mané Garrincha,2024,Botafogo-RJ,1,0,0,1
+Arena BRB Mané Garrincha,2024,Sao Paulo,1,1,0,0
+Estádio Brinco de Ouro,2024,Sao Paulo,1,1,0,0
+ Maracanã,2024,Botafogo-RJ,1,0,0,1
+Estádio Independência,2024,Atletico-MG,2,0,1,1
