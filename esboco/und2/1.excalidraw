@@ -26,7 +26,7 @@
       "version": 30,
       "versionNonce": 33410068,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1762943733223,
       "link": null,
       "locked": false,
@@ -331,8 +331,8 @@
     {
       "id": "aS3SdLZuUDWiWCgZTiqNA",
       "type": "text",
-      "x": 735,
-      "y": 1039.75,
+      "x": 747,
+      "y": 1022.75,
       "width": 62.679931640625,
       "height": 25,
       "angle": 0,
@@ -348,11 +348,11 @@
       "index": "aF",
       "roundness": null,
       "seed": 1045189036,
-      "version": 8,
-      "versionNonce": 1405578644,
+      "version": 26,
+      "versionNonce": 2124170739,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1762943908015,
+      "boundElements": [],
+      "updated": 1763407350943,
       "link": null,
       "locked": false,
       "text": "minuto",
@@ -388,7 +388,7 @@
       "version": 44,
       "versionNonce": 1028954132,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1762943917577,
       "link": null,
       "locked": false,
@@ -425,7 +425,7 @@
       "version": 31,
       "versionNonce": 1000297236,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1762943927067,
       "link": null,
       "locked": false,
@@ -464,7 +464,7 @@
       "version": 286,
       "versionNonce": 1648994988,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1762944237076,
       "link": null,
       "locked": false
@@ -513,7 +513,9 @@
       "endArrowhead": null,
       "index": "aJ",
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "boundElements": [],
       "updated": 1762944237076,
       "link": null,
@@ -563,7 +565,9 @@
       "endArrowhead": null,
       "index": "aK",
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "boundElements": [],
       "updated": 1762944237076,
       "link": null,
@@ -621,7 +625,9 @@
       "endArrowhead": null,
       "index": "aL",
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "boundElements": [],
       "updated": 1762944237077,
       "link": null,
@@ -679,7 +685,9 @@
       "endArrowhead": null,
       "index": "aM",
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "boundElements": [],
       "updated": 1762944237077,
       "link": null,
@@ -959,7 +967,9 @@
       "endArrowhead": null,
       "index": "aT",
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "boundElements": [],
       "updated": 1762944245411,
       "link": null,
@@ -1009,7 +1019,9 @@
       "endArrowhead": null,
       "index": "aU",
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "boundElements": [],
       "updated": 1762944245411,
       "link": null,
@@ -1067,7 +1079,9 @@
       "endArrowhead": null,
       "index": "aV",
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "boundElements": [],
       "updated": 1762944245411,
       "link": null,
@@ -1125,7 +1139,9 @@
       "endArrowhead": null,
       "index": "aW",
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "boundElements": [],
       "updated": 1762944245411,
       "link": null,
@@ -1405,7 +1421,9 @@
       "endArrowhead": null,
       "index": "ad",
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "boundElements": [],
       "updated": 1762944242202,
       "link": null,
@@ -1455,7 +1473,9 @@
       "endArrowhead": null,
       "index": "ae",
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "boundElements": [],
       "updated": 1762944242202,
       "link": null,
@@ -1513,7 +1533,9 @@
       "endArrowhead": null,
       "index": "af",
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "boundElements": [],
       "updated": 1762944242202,
       "link": null,
@@ -1571,7 +1593,9 @@
       "endArrowhead": null,
       "index": "ag",
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "boundElements": [],
       "updated": 1762944242202,
       "link": null,
@@ -1851,7 +1875,9 @@
       "endArrowhead": null,
       "index": "an",
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "boundElements": [],
       "updated": 1762944248236,
       "link": null,
@@ -1901,7 +1927,9 @@
       "endArrowhead": null,
       "index": "ao",
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "boundElements": [],
       "updated": 1762944248236,
       "link": null,
@@ -1959,7 +1987,9 @@
       "endArrowhead": null,
       "index": "ap",
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "boundElements": [],
       "updated": 1762944248236,
       "link": null,
@@ -2017,7 +2047,9 @@
       "endArrowhead": null,
       "index": "aq",
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "boundElements": [],
       "updated": 1762944248236,
       "link": null,
